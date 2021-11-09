@@ -1,84 +1,84 @@
-﻿Log file open, 11/05/21 18:42:05
+﻿Log file open, 11/08/21 23:41:32
 LogInit: LLM is enabled
 LogInit: LLM CsvWriter: off TraceWriter: off
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.096842
+LogStats: Stats thread started at 0.108639
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
 LogPluginManager: Mounting plugin MeshPainting
 LogPluginManager: Mounting plugin Paper2D
 LogPluginManager: Mounting plugin AISupport
-LogPluginManager: Mounting plugin AnimationSharing
-LogPluginManager: Mounting plugin PluginUtils
-LogPluginManager: Mounting plugin EnvironmentQueryEditor
-LogPluginManager: Mounting plugin LightPropagationVolume
-LogPluginManager: Mounting plugin UObjectPlugin
 LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin LightPropagationVolume
 LogPluginManager: Mounting plugin FacialAnimation
 LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin UObjectPlugin
 LogPluginManager: Mounting plugin VariantManagerContent
-LogPluginManager: Mounting plugin GeometryMode
-LogPluginManager: Mounting plugin AlembicImporter
-LogPluginManager: Mounting plugin Niagara
 LogPluginManager: Mounting plugin DatasmithContent
-LogPluginManager: Mounting plugin AutomationUtils
-LogPluginManager: Mounting plugin BackChannel
-LogPluginManager: Mounting plugin ChaosCloth
-LogPluginManager: Mounting plugin ChaosEditor
-LogPluginManager: Mounting plugin ChaosNiagara
-LogPluginManager: Mounting plugin ChaosClothEditor
-LogPluginManager: Mounting plugin ChaosSolverPlugin
-LogPluginManager: Mounting plugin CharacterAI
-LogPluginManager: Mounting plugin GeometryCollectionPlugin
-LogPluginManager: Mounting plugin GeometryCache
-LogPluginManager: Mounting plugin GeometryProcessing
-LogPluginManager: Mounting plugin MotoSynth
-LogPluginManager: Mounting plugin PlanarCut
-LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin AnimationSharing
 LogPluginManager: Mounting plugin MagicLeap
 LogPluginManager: Mounting plugin MagicLeapLightEstimation
-LogPluginManager: Mounting plugin MLSDK
 LogPluginManager: Mounting plugin MagicLeapPassableWorld
-LogPluginManager: Mounting plugin AvfMedia
-LogPluginManager: Mounting plugin ImgMedia
-LogPluginManager: Mounting plugin MediaCompositing
-LogPluginManager: Mounting plugin ActorSequence
-LogPluginManager: Mounting plugin WebMMedia
-LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin ChaosSolverPlugin
 LogPluginManager: Mounting plugin SafeDelete
-LogPluginManager: Mounting plugin WmfMedia
-LogPluginManager: Mounting plugin LevelSequenceEditor
-LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin AvfMedia
 LogPluginManager: Mounting plugin UdpMessaging
-LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin MediaCompositing
 LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorSequence
 LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin OnlineSubsystem
 LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
 LogPluginManager: Mounting plugin TemplateSequence
 LogPluginManager: Mounting plugin ScreenshotTools
-LogPluginManager: Mounting plugin AppleImageUtils
 LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AppleImageUtils
 LogPluginManager: Mounting plugin ArchVisCharacter
 LogPluginManager: Mounting plugin AudioCapture
-LogPluginManager: Mounting plugin AssetTags
-LogPluginManager: Mounting plugin ChunkDownloader
-LogPluginManager: Mounting plugin CableComponent
 LogPluginManager: Mounting plugin AudioSynesthesia
 LogPluginManager: Mounting plugin CustomMeshComponent
-LogPluginManager: Mounting plugin EditableMesh
-LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CableComponent
 LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
 LogPluginManager: Mounting plugin LocationServicesBPLibrary
 LogPluginManager: Mounting plugin MobilePatchingUtils
-LogPluginManager: Mounting plugin PropertyAccessEditor
 LogPluginManager: Mounting plugin PhysXVehicles
 LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin PropertyAccessEditor
 LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SoundFields
-LogPluginManager: Mounting plugin Synthesis
 LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Synthesis
 LogPluginManager: Mounting plugin WebMMoviePlayer
 LogPluginManager: Mounting plugin OculusVR
 LogPluginManager: Mounting plugin SteamShared
@@ -105,13 +105,13 @@ LogInit:  - LocalHostAddr = Default
 LogInit:  - BufferSize = 65536
 LogSteamShared: Display: Loading Steam SDK 1.47
 LogSteamShared: Steam SDK Loaded!
-LogOnline: OSS: Creating online subsystem instance for: Steam
+LogOnline: OSS: Creating online subsystem instance for: STEAM
 LogOnline: STEAM: Steam User is subscribed 1
 LogOnline: STEAM: [AppId: 480] Client API initialized 1
 LogOnline: STEAM: Initializing SteamNetworking Layer
 LogOnline: STEAM: Missing P2PCleanupTimeout key in OnlineSubsystemSteam of DefaultEngine.ini, using default
 LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
-LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [Steam]
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [STEAM]
 LogInit: Build: ++UE4+Release-4.26-CL-15973114
 LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
 LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
@@ -176,1018 +176,786 @@ LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
 LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
-[2021.11.05-15.42.06:902][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
-[2021.11.05-15.42.06:902][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
-[2021.11.05-15.42.06:902][  0]LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
-[2021.11.05-15.42.06:902][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [../../../Warzone/Saved/Config/WindowsNoEditor/Engine.ini]
-[2021.11.05-15.42.06:902][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
-[2021.11.05-15.42.06:902][  0]LogConfig: Setting CVar [[r.CustomDepth:3]]
-[2021.11.05-15.42.06:902][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [../../../Warzone/Saved/Config/WindowsNoEditor/Engine.ini]
-[2021.11.05-15.42.06:902][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [../../../Warzone/Saved/Config/WindowsNoEditor/Engine.ini]
-[2021.11.05-15.42.06:902][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
-[2021.11.05-15.42.06:902][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
-[2021.11.05-15.42.06:902][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
-[2021.11.05-15.42.06:902][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
-[2021.11.05-15.42.06:902][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
-[2021.11.05-15.42.06:902][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
-[2021.11.05-15.42.06:902][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
-[2021.11.05-15.42.06:902][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
-[2021.11.05-15.42.06:902][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
-[2021.11.05-15.42.06:902][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
-[2021.11.05-15.42.06:902][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
-[2021.11.05-15.42.06:902][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
-[2021.11.05-15.42.06:902][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
-[2021.11.05-15.42.06:902][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
-[2021.11.05-15.42.06:902][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [../../../Warzone/Saved/Config/WindowsNoEditor/Engine.ini]
-[2021.11.05-15.42.06:902][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
-[2021.11.05-15.42.06:902][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
-[2021.11.05-15.42.06:902][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
-[2021.11.05-15.42.06:902][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
-[2021.11.05-15.42.06:903][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
-[2021.11.05-15.42.06:903][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
-[2021.11.05-15.42.06:903][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
-[2021.11.05-15.42.06:903][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
-[2021.11.05-15.42.06:903][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
-[2021.11.05-15.42.06:903][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
-[2021.11.05-15.42.06:903][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
-[2021.11.05-15.42.06:903][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
-[2021.11.05-15.42.06:903][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
-[2021.11.05-15.42.06:903][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
-[2021.11.05-15.42.06:903][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [../../../Warzone/Saved/Config/WindowsNoEditor/Engine.ini]
-[2021.11.05-15.42.06:906][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../Warzone/Saved/Config/WindowsNoEditor/Scalability.ini]
-[2021.11.05-15.42.06:906][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2021.11.05-15.42.06:906][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2021.11.05-15.42.06:907][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../Warzone/Saved/Config/WindowsNoEditor/Scalability.ini]
-[2021.11.05-15.42.06:907][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2021.11.05-15.42.06:907][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../Warzone/Saved/Config/WindowsNoEditor/Scalability.ini]
-[2021.11.05-15.42.06:907][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2021.11.05-15.42.06:907][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2021.11.05-15.42.06:907][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2021.11.05-15.42.06:907][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2021.11.05-15.42.06:907][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2021.11.05-15.42.06:907][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2021.11.05-15.42.06:907][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2021.11.05-15.42.06:907][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2021.11.05-15.42.06:907][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2021.11.05-15.42.06:907][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2021.11.05-15.42.06:907][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2021.11.05-15.42.06:907][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2021.11.05-15.42.06:907][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2021.11.05-15.42.06:907][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2021.11.05-15.42.06:907][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2021.11.05-15.42.06:907][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2021.11.05-15.42.06:907][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2021.11.05-15.42.06:907][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2021.11.05-15.42.06:907][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../Warzone/Saved/Config/WindowsNoEditor/Scalability.ini]
-[2021.11.05-15.42.06:907][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2021.11.05-15.42.06:907][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2021.11.05-15.42.06:907][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2021.11.05-15.42.06:907][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2021.11.05-15.42.06:907][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2021.11.05-15.42.06:907][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2021.11.05-15.42.06:907][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2021.11.05-15.42.06:907][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2021.11.05-15.42.06:907][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2021.11.05-15.42.06:907][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2021.11.05-15.42.06:907][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2021.11.05-15.42.06:907][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2021.11.05-15.42.06:907][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2021.11.05-15.42.06:907][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2021.11.05-15.42.06:907][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2021.11.05-15.42.06:907][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2021.11.05-15.42.06:907][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2021.11.05-15.42.06:907][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2021.11.05-15.42.06:907][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2021.11.05-15.42.06:907][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2021.11.05-15.42.06:907][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2021.11.05-15.42.06:907][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2021.11.05-15.42.06:907][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2021.11.05-15.42.06:907][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2021.11.05-15.42.06:907][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2021.11.05-15.42.06:907][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2021.11.05-15.42.06:907][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2021.11.05-15.42.06:907][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2021.11.05-15.42.06:907][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2021.11.05-15.42.06:907][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2021.11.05-15.42.06:907][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../Warzone/Saved/Config/WindowsNoEditor/Scalability.ini]
-[2021.11.05-15.42.06:907][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2021.11.05-15.42.06:907][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2021.11.05-15.42.06:907][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2021.11.05-15.42.06:907][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2021.11.05-15.42.06:907][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2021.11.05-15.42.06:907][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
-[2021.11.05-15.42.06:907][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2021.11.05-15.42.06:908][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2021.11.05-15.42.06:908][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2021.11.05-15.42.06:908][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../Warzone/Saved/Config/WindowsNoEditor/Scalability.ini]
-[2021.11.05-15.42.06:908][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2021.11.05-15.42.06:908][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2021.11.05-15.42.06:908][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2021.11.05-15.42.06:908][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
-[2021.11.05-15.42.06:908][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2021.11.05-15.42.06:908][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2021.11.05-15.42.06:908][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2021.11.05-15.42.06:908][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2021.11.05-15.42.06:908][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
-[2021.11.05-15.42.06:908][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2021.11.05-15.42.06:908][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2021.11.05-15.42.06:908][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2021.11.05-15.42.06:908][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
-[2021.11.05-15.42.06:908][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
-[2021.11.05-15.42.06:908][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2021.11.05-15.42.06:908][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2021.11.05-15.42.06:908][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
-[2021.11.05-15.42.06:908][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
-[2021.11.05-15.42.06:908][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
-[2021.11.05-15.42.06:908][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
-[2021.11.05-15.42.06:908][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
-[2021.11.05-15.42.06:908][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
-[2021.11.05-15.42.06:908][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
-[2021.11.05-15.42.06:908][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
-[2021.11.05-15.42.06:908][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
-[2021.11.05-15.42.06:908][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
-[2021.11.05-15.42.06:908][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
-[2021.11.05-15.42.06:908][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
-[2021.11.05-15.42.06:908][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../Warzone/Saved/Config/WindowsNoEditor/Scalability.ini]
-[2021.11.05-15.42.06:908][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2021.11.05-15.42.06:908][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2021.11.05-15.42.06:908][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [../../../Warzone/Saved/Config/WindowsNoEditor/Scalability.ini]
-[2021.11.05-15.42.06:908][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
-[2021.11.05-15.42.06:908][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
-[2021.11.05-15.42.06:908][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
-[2021.11.05-15.42.06:908][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
-[2021.11.05-15.42.06:908][  0]LogInit: Applying CVar settings loaded from the selected device profile: [WindowsNoEditor]
-[2021.11.05-15.42.06:908][  0]LogHAL: Display: Platform has ~ 10 GB [10673074176 / 17179869184 / 10], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
-[2021.11.05-15.42.06:908][  0]LogInit: Going up to parent DeviceProfile [Windows]
-[2021.11.05-15.42.06:908][  0]LogInit: Going up to parent DeviceProfile []
-[2021.11.05-15.42.06:908][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../Warzone/Saved/Config/WindowsNoEditor/Scalability.ini]
-[2021.11.05-15.42.06:908][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2021.11.05-15.42.06:908][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2021.11.05-15.42.06:908][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../Warzone/Saved/Config/WindowsNoEditor/Scalability.ini]
-[2021.11.05-15.42.06:908][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2021.11.05-15.42.06:908][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../Warzone/Saved/Config/WindowsNoEditor/Scalability.ini]
-[2021.11.05-15.42.06:908][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2021.11.05-15.42.06:908][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2021.11.05-15.42.06:908][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2021.11.05-15.42.06:908][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2021.11.05-15.42.06:908][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2021.11.05-15.42.06:908][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2021.11.05-15.42.06:908][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2021.11.05-15.42.06:908][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../Warzone/Saved/Config/WindowsNoEditor/Scalability.ini]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../Warzone/Saved/Config/WindowsNoEditor/Scalability.ini]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../Warzone/Saved/Config/WindowsNoEditor/Scalability.ini]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
-[2021.11.05-15.42.06:909][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../Warzone/Saved/Config/WindowsNoEditor/Scalability.ini]
-[2021.11.05-15.42.06:910][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2021.11.05-15.42.06:910][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2021.11.05-15.42.06:910][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [../../../Warzone/Saved/Config/WindowsNoEditor/Scalability.ini]
-[2021.11.05-15.42.06:910][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
-[2021.11.05-15.42.06:910][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
-[2021.11.05-15.42.06:910][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
-[2021.11.05-15.42.06:910][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
-[2021.11.05-15.42.06:910][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
-[2021.11.05-15.42.06:910][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
-[2021.11.05-15.42.06:910][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
-[2021.11.05-15.42.06:910][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [../../../Warzone/Saved/Config/WindowsNoEditor/Engine.ini]
-[2021.11.05-15.42.06:910][  0]LogInit: Computer: DESKTOP-AIJCTV2
-[2021.11.05-15.42.06:910][  0]LogInit: User: Nick
-[2021.11.05-15.42.06:910][  0]LogInit: CPU Page size=4096, Cores=4
-[2021.11.05-15.42.06:910][  0]LogInit: High frequency timer resolution =10.000000 MHz
-[2021.11.05-15.42.06:910][  0]LogMemory: Memory total: Physical=9.9GB (10GB approx)
-[2021.11.05-15.42.06:910][  0]LogMemory: Platform Memory Stats for WindowsNoEditor
-[2021.11.05-15.42.06:910][  0]LogMemory: Process Physical Memory: 95.73 MB used, 95.74 MB peak
-[2021.11.05-15.42.06:910][  0]LogMemory: Process Virtual Memory: 83.46 MB used, 83.46 MB peak
-[2021.11.05-15.42.06:910][  0]LogMemory: Physical Memory: 2887.35 MB used,  7291.29 MB free, 10178.64 MB total
-[2021.11.05-15.42.06:910][  0]LogMemory: Virtual Memory: 134200496.00 MB used,  17232.30 MB free, 134217728.00 MB total
-[2021.11.05-15.42.06:912][  0]LogWindows: WindowsPlatformFeatures enabled
-[2021.11.05-15.42.06:947][  0]LogInit: Physics initialised using underlying interface: PhysX
-[2021.11.05-15.42.06:948][  0]LogInit: Using OS detected language (ru-RU).
-[2021.11.05-15.42.06:948][  0]LogInit: Using OS detected locale (ru-RU).
-[2021.11.05-15.42.06:948][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the language.
-[2021.11.05-15.42.06:949][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the locale.
-[2021.11.05-15.42.06:967][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
-[2021.11.05-15.42.06:975][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2021.11.05-15.42.06:976][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2021.11.05-15.42.06:993][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
-[2021.11.05-15.42.06:993][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
-[2021.11.05-15.42.06:993][  0]LogD3D11RHI: D3D11 adapters:
-[2021.11.05-15.42.07:128][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1650' (Feature Level 11_0)
-[2021.11.05-15.42.07:128][  0]LogD3D11RHI:       3964/0/5089 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
-[2021.11.05-15.42.07:175][  0]LogD3D11RHI:    1. 'AMD Radeon(TM) Vega 8 Graphics' (Feature Level 11_0)
-[2021.11.05-15.42.07:175][  0]LogD3D11RHI:       2033/0/5089 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
-[2021.11.05-15.42.07:178][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2021.11.05-15.42.07:178][  0]LogD3D11RHI:       0/0/5089 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2021.11.05-15.42.07:178][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2021.11.05-15.42.07:186][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2021.11.05-15.42.07:186][  0]LogD3D11RHI:     GPU DeviceId: 0x1f91 (for the marketing name, search the web for "GPU Device Id")
-[2021.11.05-15.42.07:186][  0]LogWindows: EnumDisplayDevices:
-[2021.11.05-15.42.07:187][  0]LogWindows:    0. 'AMD Radeon(TM) Vega 8 Graphics ' (P:1 D:1)
-[2021.11.05-15.42.07:187][  0]LogWindows:    1. 'AMD Radeon(TM) Vega 8 Graphics ' (P:0 D:0)
-[2021.11.05-15.42.07:187][  0]LogWindows:    2. 'AMD Radeon(TM) Vega 8 Graphics ' (P:0 D:0)
-[2021.11.05-15.42.07:188][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
-[2021.11.05-15.42.07:188][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650
-[2021.11.05-15.42.07:188][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
-[2021.11.05-15.42.07:188][  0]LogD3D11RHI:      Driver Date: Unknown
-[2021.11.05-15.42.07:188][  0]LogRHI: Texture pool is 2774 MB (70% of 3964 MB)
-[2021.11.05-15.42.07:267][  0]LogD3D11RHI: RHI has support for 64 bit atomics
-[2021.11.05-15.42.07:267][  0]LogD3D11RHI: Async texture creation enabled
-[2021.11.05-15.42.07:267][  0]LogD3D11RHI: Array index from any shader is supported
-[2021.11.05-15.42.07:293][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
-[2021.11.05-15.42.07:294][  0]LogRHI: GeForceNow SDK initialized: 1
-[2021.11.05-15.42.07:294][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
-[2021.11.05-15.42.07:295][  0]LogShaderLibrary: Display: Using ../../../Warzone/Content/ShaderArchive-Global-PCD3D_SM5.ushaderbytecode for material shader code. Total 2081 unique shaders.
-[2021.11.05-15.42.07:295][  0]LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library Global
-[2021.11.05-15.42.07:296][  0]LogTemp: Warning: Clearing the OS Cache
-[2021.11.05-15.42.07:322][  0]LogSlate: Using FreeType 2.10.0
-[2021.11.05-15.42.07:322][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2021.11.05-15.42.07:393][  0]LogShaderLibrary: Display: Using ../../../Warzone/Content/ShaderArchive-Warzone-PCD3D_SM5.ushaderbytecode for material shader code. Total 3988 unique shaders.
-[2021.11.05-15.42.07:393][  0]LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library Warzone
-[2021.11.05-15.42.07:393][  0]LogRHI: Display: Opened pipeline cache after state change and enqueued 0 of 0 tasks for precompile.
-[2021.11.05-15.42.07:393][  0]LogRHI: Display: Failed to open default shader pipeline cache for Warzone using shader platform 0.
-[2021.11.05-15.42.07:393][  0]LogRHI: Display: Failed to open default shader pipeline cache for Warzone using shader platform 0.
-[2021.11.05-15.42.07:393][  0]LogInit: Using OS detected language (ru-RU).
-[2021.11.05-15.42.07:393][  0]LogInit: Using OS detected locale (ru-RU).
-[2021.11.05-15.42.07:393][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the language.
-[2021.11.05-15.42.07:394][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the locale.
-[2021.11.05-15.42.07:394][  0]LogTextLocalizationManager: Compacting localization data took   0.63ms
-[2021.11.05-15.42.07:404][  0]LogAssetRegistry: FAssetRegistry took 0.0095 seconds to start up
-[2021.11.05-15.42.07:507][  0]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
-[2021.11.05-15.42.07:507][  0]LogPackageLocalizationCache: Processed 21 localized package path(s) for 1 prioritized culture(s) in 0.000078 seconds
-[2021.11.05-15.42.07:514][  0]LogSerialization: Display: AllowBulkDataInIoStore: 'true'
-[2021.11.05-15.42.07:515][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
-[2021.11.05-15.42.07:515][  0]LogInit: Active device profile: [00000174811161C0][00000174810FEC50 49] WindowsNoEditor
-[2021.11.05-15.42.07:515][  0]LogInit: Profiles: [0000017481116040][00000174FA6313C0 49] Windows, [00000174811161C0][00000174810FEC50 49] WindowsNoEditor, 
-[2021.11.05-15.42.07:531][  0]LogNetVersion: Warzone 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3732354823)
-[2021.11.05-15.42.07:582][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
-[2021.11.05-15.42.07:582][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
-[2021.11.05-15.42.07:583][  0]LogHMD: PokeAHoleMaterial loaded successfully
-[2021.11.05-15.42.07:617][  0]LogMoviePlayer: Initializing movie player
-[2021.11.05-15.42.07:619][  0]LogOcInput: OculusInput pre-init called
-[2021.11.05-15.42.07:625][  0]LogUObjectArray: 15339 objects as part of root set at end of initial load.
-[2021.11.05-15.42.07:625][  0]LogUObjectArray: 2 objects are not in the root set, but can never be destroyed because they are in the DisregardForGC set.
-[2021.11.05-15.42.07:625][  0]LogUObjectAllocator: 3130872 out of 0 bytes used by permanent object pool.
-[2021.11.05-15.42.07:625][  0]LogUObjectArray: CloseDisregardForGC: 15339/15339 objects in disregard for GC pool
-[2021.11.05-15.42.07:625][  0]LogEngine: Initializing Engine...
-[2021.11.05-15.42.07:626][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
-[2021.11.05-15.42.07:684][  0]LogInit: Initializing FReadOnlyCVARCache
-[2021.11.05-15.42.07:684][  0]LogAudio: Display: Initializing Audio Device Manager...
-[2021.11.05-15.42.07:684][  0]LogAudio: Display: Audio Device Manager Initialized
-[2021.11.05-15.42.07:684][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
-[2021.11.05-15.42.07:684][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
-[2021.11.05-15.42.07:684][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
-[2021.11.05-15.42.07:684][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
-[2021.11.05-15.42.07:684][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
-[2021.11.05-15.42.07:684][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
-[2021.11.05-15.42.07:684][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
-[2021.11.05-15.42.07:684][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
-[2021.11.05-15.42.07:684][  0]LogAudio: Display: AudioDevice MaxSources: 32
-[2021.11.05-15.42.07:685][  0]LogAudio: Display: Using built-in audio occlusion.
-[2021.11.05-15.42.07:685][  0]LogAudioMixer: Display: Initializing audio mixer.
-[2021.11.05-15.42.07:693][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
-[2021.11.05-15.42.07:697][  0]LogAudioMixer: Display: 0: FrontLeft
-[2021.11.05-15.42.07:697][  0]LogAudioMixer: Display: 1: FrontRight
-[2021.11.05-15.42.07:727][  0]LogAudioMixer: Display: Using Audio Device Динамики (Realtek Audio)
-[2021.11.05-15.42.07:728][  0]LogAudioMixer: Display: Initializing Sound Submixes...
-[2021.11.05-15.42.07:729][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
-[2021.11.05-15.42.07:729][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
-[2021.11.05-15.42.07:730][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
-[2021.11.05-15.42.07:730][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
-[2021.11.05-15.42.07:731][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
-[2021.11.05-15.42.07:731][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
-[2021.11.05-15.42.07:731][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
-[2021.11.05-15.42.07:731][  0]LogInit: FAudioDevice initialized.
-[2021.11.05-15.42.07:732][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
-[2021.11.05-15.42.07:732][  0]LogInit: Texture streaming: Enabled
-[2021.11.05-15.42.07:735][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
-[2021.11.05-15.42.07:735][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2021.11.05-15.42.07:736][  0]LogInit: Display: Game Engine Initialized.
-[2021.11.05-15.42.07:737][  0]LogInit: Display: Starting Game.
-[2021.11.05-15.42.07:737][  0]LogNet: Browse: /Game/Game/Maps/menu?Name=Player
-[2021.11.05-15.42.07:737][  0]LogLoad: LoadMap: /Game/Game/Maps/menu?Name=Player
-[2021.11.05-15.42.07:737][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
-[2021.11.05-15.42.07:738][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
-[2021.11.05-15.42.07:738][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2021.11.05-15.42.07:741][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
-[2021.11.05-15.42.07:743][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
-[2021.11.05-15.42.08:025][  0]LogMaterial: Error: Tried to access an uncooked shader map ID in a cooked application
-[2021.11.05-15.42.08:025][  0]LogMaterial: Warning: Invalid shader map ID caching shaders for 'M_SightOpticsMaster', will use default material.
-[2021.11.05-15.42.08:025][  0]LogMaterial: Can't compile M_SightOpticsMaster with cooked content, will use default material instead
-[2021.11.05-15.42.08:025][  0]LogMaterial: Warning: [AssetLog] /Game/FPSTemplate/Attachments/Sights/Materials/M_SightOpticsMaster.M_SightOpticsMaster: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
-[2021.11.05-15.42.08:086][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'menu'.
-[2021.11.05-15.42.08:090][  0]LogAIModule: Creating AISystem for world menu
-[2021.11.05-15.42.08:091][  0]LogLoad: Game class is 'menuGM_C'
-[2021.11.05-15.42.08:098][  0]LogWorld: Bringing World /Game/Game/Maps/menu.menu up for play (max tick rate 0) at 2021.11.05-18.42.08
-[2021.11.05-15.42.08:099][  0]LogWorld: Bringing up level for play took: 0.005419
-[2021.11.05-15.42.08:109][  0]LogOnlineSession: Warning: STEAM: Can't destroy a null online session (GameSession)
-[2021.11.05-15.42.08:111][  0]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
-[2021.11.05-15.42.08:111][  0]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
-[2021.11.05-15.42.08:121][  0]LogOnlineSession: Warning: STEAM: Can't destroy a null online session (GameSession)
-[2021.11.05-15.42.08:121][  0]LogOnlineSession: Warning: STEAM: Ignoring game search request while one is pending
-[2021.11.05-15.42.08:122][  0]LogLoad: Took 0.385467 seconds to LoadMap(/Game/Game/Maps/menu)
-[2021.11.05-15.42.08:123][  0]LogSlate: Took 0.000754 seconds to synchronously load lazily loaded font '../../../Warzone/Content/ModularMenuSystem/Fonts/Ornamented_0_IMFell2.ufont' (191K)
-[2021.11.05-15.42.08:150][  0]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 10 NumSamples 1 (Frame:1).
-[2021.11.05-15.42.08:150][  0]LogRHI: Display: ShaderPipelineCache: Paused Batching. 1
-[2021.11.05-15.42.08:150][  0]LogRHI: Display: ShaderPipelineCache: Resumed Batching. 0
-[2021.11.05-15.42.08:150][  0]LogRHI: Display: ShaderPipelineCache: Batching Resumed.
-[2021.11.05-15.42.08:150][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
-[2021.11.05-15.42.08:150][  0]LogLoad: (Engine Initialization) Total time: 3.17 seconds
-[2021.11.05-15.42.08:150][  0]LogInit: First time updating LLM stats...
-[2021.11.05-15.42.08:193][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2021.11.05-15.42.08:209][  1]LogSlate: Took 0.000278 seconds to synchronously load lazily loaded font '../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont' (160K)
-[2021.11.05-15.42.13:404][667]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
-[2021.11.05-15.42.13:404][667]LogOnlineSession: Warning: STEAM: Ignoring game search request while one is pending
-[2021.11.05-15.42.17:265][147]LogOnlineSession: Warning: STEAM: Server response IP:37.10.126.113
-[2021.11.05-15.42.17:265][147]LogOnlineSession: Warning: STEAM: Removed incompatible build: ServerBuildUniqueId = 0x00000000, GetBuildUniqueId() = 0x00e24b58
-[2021.11.05-15.42.17:315][154]LogOnlineSession: Warning: STEAM: Server response IP:91.214.119.165
-[2021.11.05-15.42.17:315][154]LogOnlineSession: Warning: STEAM: Removed incompatible build: ServerBuildUniqueId = 0x00000000, GetBuildUniqueId() = 0x00e24b58
-[2021.11.05-15.42.17:866][225]LogOnlineSession: Warning: STEAM: Server response IP:209.159.148.138
-[2021.11.05-15.42.17:866][225]LogOnlineSession: Warning: STEAM: Removed incompatible build: ServerBuildUniqueId = 0x00000000, GetBuildUniqueId() = 0x00e24b58
-[2021.11.05-15.42.17:866][225]LogOnlineSession: Warning: STEAM: Server response IP:20.151.66.71
-[2021.11.05-15.42.17:866][225]LogOnlineSession: Warning: STEAM: Removed incompatible build: ServerBuildUniqueId = 0x00000000, GetBuildUniqueId() = 0x00e24b58
-[2021.11.05-15.42.17:866][225]LogOnlineSession: Warning: STEAM: Server response IP:20.151.66.71
-[2021.11.05-15.42.17:866][225]LogOnlineSession: Warning: STEAM: Removed incompatible build: ServerBuildUniqueId = 0x00000000, GetBuildUniqueId() = 0x00e24b58
-[2021.11.05-15.42.18:735][325]LogSlate: Took 0.032963 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2021.11.05-15.42.18:770][332]LogOnlineSession: Warning: STEAM: Failed to respond IP:47.232.163.23
-[2021.11.05-15.42.23:359][991]LogOnlineSession: Warning: STEAM: Can't destroy a null online session (GameSession)
-[2021.11.05-15.42.25:678][291]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
-[2021.11.05-15.42.35:469][555]LogOnlineSession: Warning: STEAM: Failed to respond IP:91.214.119.165
-[2021.11.05-15.42.35:518][561]LogOnlineSession: Warning: STEAM: Failed to respond IP:20.151.66.71
-[2021.11.05-15.42.35:518][561]LogOnlineSession: Warning: STEAM: Failed to respond IP:20.151.66.71
-[2021.11.05-15.42.35:518][561]LogOnlineSession: Warning: STEAM: Failed to respond IP:37.10.126.113
-[2021.11.05-15.42.35:518][561]LogOnlineSession: Warning: STEAM: Failed to respond IP:47.232.163.23
-[2021.11.05-15.42.35:518][561]LogOnlineSession: Warning: STEAM: Failed to respond IP:209.159.148.138
-[2021.11.05-15.42.50:902][687]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../Warzone/Saved/Config/WindowsNoEditor/Scalability.ini]
-[2021.11.05-15.42.50:902][687]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2021.11.05-15.42.50:902][687]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2021.11.05-15.42.50:902][687]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../Warzone/Saved/Config/WindowsNoEditor/Scalability.ini]
-[2021.11.05-15.42.50:902][687]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2021.11.05-15.42.50:902][687]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../Warzone/Saved/Config/WindowsNoEditor/Scalability.ini]
-[2021.11.05-15.42.50:902][687]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2021.11.05-15.42.50:902][687]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2021.11.05-15.42.50:902][687]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2021.11.05-15.42.50:902][687]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2021.11.05-15.42.50:902][687]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2021.11.05-15.42.50:902][687]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2021.11.05-15.42.50:902][687]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2021.11.05-15.42.50:902][687]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2021.11.05-15.42.50:902][687]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2021.11.05-15.42.50:902][687]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2021.11.05-15.42.50:902][687]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2021.11.05-15.42.50:902][687]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2021.11.05-15.42.50:902][687]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2021.11.05-15.42.50:902][687]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2021.11.05-15.42.50:902][687]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2021.11.05-15.42.50:902][687]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2021.11.05-15.42.50:902][687]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2021.11.05-15.42.50:902][687]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2021.11.05-15.42.50:902][687]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../Warzone/Saved/Config/WindowsNoEditor/Scalability.ini]
-[2021.11.05-15.42.50:902][687]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2021.11.05-15.42.50:902][687]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2021.11.05-15.42.50:902][687]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2021.11.05-15.42.50:902][687]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2021.11.05-15.42.50:902][687]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2021.11.05-15.42.50:902][687]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2021.11.05-15.42.50:902][687]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2021.11.05-15.42.50:902][687]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2021.11.05-15.42.50:902][687]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2021.11.05-15.42.50:902][687]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2021.11.05-15.42.50:902][687]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2021.11.05-15.42.50:902][687]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2021.11.05-15.42.50:902][687]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2021.11.05-15.42.50:903][687]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2021.11.05-15.42.50:903][687]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2021.11.05-15.42.50:903][687]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2021.11.05-15.42.50:903][687]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2021.11.05-15.42.50:903][687]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2021.11.05-15.42.50:903][687]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2021.11.05-15.42.50:903][687]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2021.11.05-15.42.50:903][687]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2021.11.05-15.42.50:903][687]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2021.11.05-15.42.50:903][687]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2021.11.05-15.42.50:903][687]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2021.11.05-15.42.50:903][687]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2021.11.05-15.42.50:903][687]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2021.11.05-15.42.50:903][687]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2021.11.05-15.42.50:903][687]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2021.11.05-15.42.50:903][687]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2021.11.05-15.42.50:903][687]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2021.11.05-15.42.50:903][687]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../Warzone/Saved/Config/WindowsNoEditor/Scalability.ini]
-[2021.11.05-15.42.50:903][687]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2021.11.05-15.42.50:903][687]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2021.11.05-15.42.50:903][687]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2021.11.05-15.42.50:903][687]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2021.11.05-15.42.50:903][687]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2021.11.05-15.42.50:903][687]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
-[2021.11.05-15.42.50:903][687]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2021.11.05-15.42.50:903][687]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2021.11.05-15.42.50:903][687]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2021.11.05-15.42.50:903][687]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../Warzone/Saved/Config/WindowsNoEditor/Scalability.ini]
-[2021.11.05-15.42.50:903][687]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2021.11.05-15.42.50:903][687]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2021.11.05-15.42.50:903][687]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2021.11.05-15.42.50:903][687]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
-[2021.11.05-15.42.50:903][687]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2021.11.05-15.42.50:903][687]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2021.11.05-15.42.50:903][687]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2021.11.05-15.42.50:903][687]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2021.11.05-15.42.50:903][687]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
-[2021.11.05-15.42.50:903][687]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2021.11.05-15.42.50:903][687]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2021.11.05-15.42.50:903][687]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2021.11.05-15.42.50:903][687]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
-[2021.11.05-15.42.50:903][687]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
-[2021.11.05-15.42.50:903][687]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2021.11.05-15.42.50:903][687]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2021.11.05-15.42.50:903][687]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
-[2021.11.05-15.42.50:903][687]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
-[2021.11.05-15.42.50:903][687]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
-[2021.11.05-15.42.50:903][687]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
-[2021.11.05-15.42.50:903][687]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
-[2021.11.05-15.42.50:903][687]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
-[2021.11.05-15.42.50:903][687]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
-[2021.11.05-15.42.50:903][687]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
-[2021.11.05-15.42.50:903][687]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
-[2021.11.05-15.42.50:903][687]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
-[2021.11.05-15.42.50:903][687]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
-[2021.11.05-15.42.50:903][687]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
-[2021.11.05-15.42.50:903][687]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../Warzone/Saved/Config/WindowsNoEditor/Scalability.ini]
-[2021.11.05-15.42.50:903][687]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2021.11.05-15.42.50:903][687]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2021.11.05-15.42.50:903][687]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [../../../Warzone/Saved/Config/WindowsNoEditor/Scalability.ini]
-[2021.11.05-15.42.50:903][687]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
-[2021.11.05-15.42.50:903][687]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
-[2021.11.05-15.42.50:903][687]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
-[2021.11.05-15.42.52:623][955]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../Warzone/Saved/Config/WindowsNoEditor/Scalability.ini]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2021.11.05-15.42.52:623][955]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../Warzone/Saved/Config/WindowsNoEditor/Scalability.ini]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2021.11.05-15.42.52:623][955]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../Warzone/Saved/Config/WindowsNoEditor/Scalability.ini]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2021.11.05-15.42.52:623][955]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../Warzone/Saved/Config/WindowsNoEditor/Scalability.ini]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2021.11.05-15.42.52:623][955]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../Warzone/Saved/Config/WindowsNoEditor/Scalability.ini]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2021.11.05-15.42.52:623][955]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../Warzone/Saved/Config/WindowsNoEditor/Scalability.ini]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2021.11.05-15.42.52:623][955]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
-[2021.11.05-15.42.52:624][955]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2021.11.05-15.42.52:624][955]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2021.11.05-15.42.52:624][955]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2021.11.05-15.42.52:624][955]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2021.11.05-15.42.52:624][955]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
-[2021.11.05-15.42.52:624][955]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2021.11.05-15.42.52:624][955]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2021.11.05-15.42.52:624][955]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2021.11.05-15.42.52:624][955]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
-[2021.11.05-15.42.52:624][955]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
-[2021.11.05-15.42.52:624][955]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2021.11.05-15.42.52:624][955]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2021.11.05-15.42.52:624][955]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
-[2021.11.05-15.42.52:624][955]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
-[2021.11.05-15.42.52:624][955]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
-[2021.11.05-15.42.52:624][955]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
-[2021.11.05-15.42.52:624][955]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
-[2021.11.05-15.42.52:624][955]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
-[2021.11.05-15.42.52:624][955]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
-[2021.11.05-15.42.52:624][955]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
-[2021.11.05-15.42.52:624][955]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
-[2021.11.05-15.42.52:624][955]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
-[2021.11.05-15.42.52:624][955]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
-[2021.11.05-15.42.52:624][955]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
-[2021.11.05-15.42.52:624][955]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../Warzone/Saved/Config/WindowsNoEditor/Scalability.ini]
-[2021.11.05-15.42.52:624][955]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2021.11.05-15.42.52:624][955]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2021.11.05-15.42.52:624][955]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [../../../Warzone/Saved/Config/WindowsNoEditor/Scalability.ini]
-[2021.11.05-15.42.52:624][955]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
-[2021.11.05-15.42.52:624][955]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
-[2021.11.05-15.42.52:624][955]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
-[2021.11.05-15.42.54:339][222]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../Warzone/Saved/Config/WindowsNoEditor/Scalability.ini]
-[2021.11.05-15.42.54:339][222]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2021.11.05-15.42.54:339][222]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2021.11.05-15.42.54:339][222]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../Warzone/Saved/Config/WindowsNoEditor/Scalability.ini]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2021.11.05-15.42.54:340][222]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../Warzone/Saved/Config/WindowsNoEditor/Scalability.ini]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2021.11.05-15.42.54:340][222]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../Warzone/Saved/Config/WindowsNoEditor/Scalability.ini]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2021.11.05-15.42.54:340][222]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../Warzone/Saved/Config/WindowsNoEditor/Scalability.ini]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2021.11.05-15.42.54:340][222]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../Warzone/Saved/Config/WindowsNoEditor/Scalability.ini]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2021.11.05-15.42.54:340][222]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2021.11.05-15.42.54:341][222]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
-[2021.11.05-15.42.54:341][222]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
-[2021.11.05-15.42.54:341][222]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2021.11.05-15.42.54:341][222]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2021.11.05-15.42.54:341][222]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
-[2021.11.05-15.42.54:341][222]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
-[2021.11.05-15.42.54:341][222]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
-[2021.11.05-15.42.54:341][222]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
-[2021.11.05-15.42.54:341][222]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
-[2021.11.05-15.42.54:341][222]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
-[2021.11.05-15.42.54:341][222]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
-[2021.11.05-15.42.54:341][222]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
-[2021.11.05-15.42.54:341][222]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
-[2021.11.05-15.42.54:341][222]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
-[2021.11.05-15.42.54:341][222]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
-[2021.11.05-15.42.54:341][222]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
-[2021.11.05-15.42.54:341][222]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../Warzone/Saved/Config/WindowsNoEditor/Scalability.ini]
-[2021.11.05-15.42.54:341][222]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2021.11.05-15.42.54:341][222]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2021.11.05-15.42.54:341][222]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [../../../Warzone/Saved/Config/WindowsNoEditor/Scalability.ini]
-[2021.11.05-15.42.54:341][222]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
-[2021.11.05-15.42.54:341][222]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
-[2021.11.05-15.42.54:341][222]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
-[2021.11.05-15.43.05:621][700]LogOnlineSession: Warning: STEAM: Cannot create session 'GameSession': session already exists.
-[2021.11.05-15.43.05:621][700]LogBlueprintUserMessages: [MenuW_C_2147482528] anotherWay
-[2021.11.05-15.43.05:621][700]LogBlueprintUserMessages: [MenuW_C_2147482528] anotherWay
-[2021.11.05-15.43.05:621][700]LogOnlineSession: Warning: STEAM: Already in process of destroying session (GameSession)
-[2021.11.05-15.43.07:262][929]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamCreateLobby bWasSuccessful: 0 LobbyId: 0 LobbyType: 2 Result: '16' k_EResultTimeout (operation timed out)' failed in 10.056986 seconds
-[2021.11.05-15.43.07:308][930]LogNet: Browse: /Game/Game/Hunt_Village?listen
-[2021.11.05-15.43.07:308][930]LogLoad: LoadMap: /Game/Game/Hunt_Village?listen
-[2021.11.05-15.43.07:308][930]LogWorld: BeginTearingDown for /Game/Game/Maps/menu
-[2021.11.05-15.43.07:309][930]LogWorld: UWorld::CleanupWorld for menu, bSessionEnded=true, bCleanupResources=true
-[2021.11.05-15.43.07:310][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2021.11.05-15.43.07:351][930]LogAudio: Display: Audio Device unregistered from world 'None'.
-[2021.11.05-15.43.07:369][930]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
-[2021.11.05-15.43.07:374][930]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
-[2021.11.05-15.43.08:722][930]LogMaterial: Error: Tried to access an uncooked shader map ID in a cooked application
-[2021.11.05-15.43.08:722][930]LogMaterial: Warning: Invalid shader map ID caching shaders for 'M_SightOpticsMaster', will use default material.
-[2021.11.05-15.43.08:722][930]LogMaterial: Can't compile M_SightOpticsMaster with cooked content, will use default material instead
-[2021.11.05-15.43.08:722][930]LogMaterial: Warning: [AssetLog] /Game/FPSTemplate/Attachments/Sights/Materials/M_SightOpticsMaster.M_SightOpticsMaster: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
-[2021.11.05-15.43.08:845][930]LogAudio: Display: Audio Device (ID: 1) registered with world 'Hunt_Village'.
-[2021.11.05-15.43.08:846][930]LogAIModule: Creating AISystem for world Hunt_Village
-[2021.11.05-15.43.08:847][930]LogLoad: Game class is 'CSGamemode_C'
-[2021.11.05-15.43.08:860][930]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
-[2021.11.05-15.43.08:860][930]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
-[2021.11.05-15.43.08:860][930]LogNet: Display: SteamNetDriver_2147482352 bound to port 7777
-[2021.11.05-15.43.08:860][930]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
-[2021.11.05-15.43.08:860][930]LogNet: GameNetDriver SteamNetDriver_2147482352 IpNetDriver listening on port 7777
-[2021.11.05-15.43.08:873][930]LogWorld: Bringing World /Game/Game/Hunt_Village.Hunt_Village up for play (max tick rate 0) at 2021.11.05-18.43.08
-[2021.11.05-15.43.08:873][930]LogOnlineIdentity: STEAM: Obtained steam authticket
-[2021.11.05-15.43.08:975][930]LogWorld: Bringing up level for play took: 0.114876
-[2021.11.05-15.43.08:976][930]LogOnlineSession: Warning: STEAM: No game present to join for session (GameSession)
-[2021.11.05-15.43.08:977][930]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
-[2021.11.05-15.43.08:977][930]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
-[2021.11.05-15.43.08:978][930]LogLoad: Took 1.670174 seconds to LoadMap(/Game/Game/Hunt_Village)
-[2021.11.05-15.43.09:002][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2021.11.05-15.43.09:010][931]LogSlate: Took 0.000272 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2021.11.05-15.43.10:570][ 58]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
-[2021.11.05-15.43.10:813][ 59]LogSlate: Took 0.010496 seconds to synchronously load lazily loaded font '../../../Engine/Content/EngineFonts/Faces/RobotoLight.ufont' (167K)
-[2021.11.05-15.43.10:813][ 59]LogSlate: Took 0.000312 seconds to synchronously load lazily loaded font '../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont' (160K)
-[2021.11.05-15.43.12:774][199]LogAnimMontage: Warning: Playing a Montage (KA47_Draw_Montage) for the wrong Skeleton (SK_Battlehawk_Skeleton) instead of (SK_KA47_Skeleton).
-[2021.11.05-15.43.12:775][199]LogAnimMontage: Warning: Playing a Montage (KA47_Draw_Montage) for the wrong Skeleton (SK_Battlehawk_Skeleton) instead of (SK_KA47_Skeleton).
-[2021.11.05-15.43.12:775][199]LogAnimMontage: Warning: Playing a Montage (KA47_Draw_Montage) for the wrong Skeleton (SK_Battlehawk_Skeleton) instead of (SK_KA47_Skeleton).
-[2021.11.05-15.43.46:231][755]LogBlueprintUserMessages: [CSUEMain_C_2147482319] start
-[2021.11.05-15.43.46:961][806]LogBlueprintUserMessages: [CSUEMain_C_2147482319] end
-[2021.11.05-15.43.47:038][811]LogCharacterMovement: CSPlayer_C_2147482321 is stuck and failed to move! Velocity: X=-239.12 Y=-36.79 Z=0.00 Location: X=6893.46 Y=-9571.65 Z=2067.42 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:5.082 Actor:SM_House_03_149 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
-[2021.11.05-15.43.55:180][393]LogParticles: Warning: Particle Notify: Anim 'Battlehawk_Fire' tried to spawn infinitely looping particle system 'P_Battlehawk_Shells'. Spawning suppressed.
-[2021.11.05-15.43.55:180][393]LogParticles: Warning: Particle Notify: Anim 'Battlehawk_Fire' tried to spawn infinitely looping particle system 'P_Battlehawk_Shells'. Spawning suppressed.
-[2021.11.05-15.43.55:396][407]LogParticles: Warning: Particle Notify: Anim 'Battlehawk_Fire' tried to spawn infinitely looping particle system 'P_Battlehawk_Shells'. Spawning suppressed.
-[2021.11.05-15.43.55:397][407]LogParticles: Warning: Particle Notify: Anim 'Battlehawk_Fire' tried to spawn infinitely looping particle system 'P_Battlehawk_Shells'. Spawning suppressed.
-[2021.11.05-15.43.55:527][415]LogParticles: Warning: Particle Notify: Anim 'Battlehawk_Fire' tried to spawn infinitely looping particle system 'P_Battlehawk_Shells'. Spawning suppressed.
-[2021.11.05-15.43.55:528][415]LogParticles: Warning: Particle Notify: Anim 'Battlehawk_Fire' tried to spawn infinitely looping particle system 'P_Battlehawk_Shells'. Spawning suppressed.
-[2021.11.05-15.43.55:722][427]LogParticles: Warning: Particle Notify: Anim 'Battlehawk_Fire' tried to spawn infinitely looping particle system 'P_Battlehawk_Shells'. Spawning suppressed.
-[2021.11.05-15.43.55:723][427]LogParticles: Warning: Particle Notify: Anim 'Battlehawk_Fire' tried to spawn infinitely looping particle system 'P_Battlehawk_Shells'. Spawning suppressed.
-[2021.11.05-15.43.55:881][437]LogParticles: Warning: Particle Notify: Anim 'Battlehawk_Fire' tried to spawn infinitely looping particle system 'P_Battlehawk_Shells'. Spawning suppressed.
-[2021.11.05-15.43.55:881][437]LogParticles: Warning: Particle Notify: Anim 'Battlehawk_Fire' tried to spawn infinitely looping particle system 'P_Battlehawk_Shells'. Spawning suppressed.
-[2021.11.05-15.43.56:033][446]LogParticles: Warning: Particle Notify: Anim 'Battlehawk_Fire' tried to spawn infinitely looping particle system 'P_Battlehawk_Shells'. Spawning suppressed.
-[2021.11.05-15.43.56:034][446]LogParticles: Warning: Particle Notify: Anim 'Battlehawk_Fire' tried to spawn infinitely looping particle system 'P_Battlehawk_Shells'. Spawning suppressed.
-[2021.11.05-15.43.56:671][487]LogParticles: Warning: Particle Notify: Anim 'Battlehawk_Fire' tried to spawn infinitely looping particle system 'P_Battlehawk_Shells'. Spawning suppressed.
-[2021.11.05-15.43.56:672][487]LogParticles: Warning: Particle Notify: Anim 'Battlehawk_Fire' tried to spawn infinitely looping particle system 'P_Battlehawk_Shells'. Spawning suppressed.
-[2021.11.05-15.43.57:363][536]LogBlueprintUserMessages: [CSPlayer_C_2147482321] 1.783333
-[2021.11.05-15.44.00:258][740]LogParticles: Warning: Particle Notify: Anim 'Battlehawk_Fire' tried to spawn infinitely looping particle system 'P_Battlehawk_Shells'. Spawning suppressed.
-[2021.11.05-15.44.00:259][740]LogParticles: Warning: Particle Notify: Anim 'Battlehawk_Fire' tried to spawn infinitely looping particle system 'P_Battlehawk_Shells'. Spawning suppressed.
-[2021.11.05-15.44.00:678][769]LogParticles: Warning: Particle Notify: Anim 'Battlehawk_Fire' tried to spawn infinitely looping particle system 'P_Battlehawk_Shells'. Spawning suppressed.
-[2021.11.05-15.44.00:679][769]LogParticles: Warning: Particle Notify: Anim 'Battlehawk_Fire' tried to spawn infinitely looping particle system 'P_Battlehawk_Shells'. Spawning suppressed.
-[2021.11.05-15.44.01:053][794]LogBlueprintUserMessages: [CSPlayer_C_2147482321] 1.783333
-[2021.11.05-15.44.10:794][565]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
-[2021.11.05-15.44.10:794][565]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
-[2021.11.05-15.44.10:796][565]LogSlate: Took 0.000249 seconds to synchronously load lazily loaded font '../../../Warzone/Content/ModularMenuSystem/Fonts/Ornamented_0_IMFell2.ufont' (191K)
-[2021.11.05-15.44.11:634][627]LogOnlineSession: Warning: STEAM: Can't destroy a null online session (GameSession)
-[2021.11.05-15.44.11:634][627]LogNet: Browse: /Game/Game/Maps/menu
-[2021.11.05-15.44.11:635][627]LogLoad: LoadMap: /Game/Game/Maps/menu
-[2021.11.05-15.44.11:635][627]LogWorld: BeginTearingDown for /Game/Game/Hunt_Village
-[2021.11.05-15.44.11:635][627]LogNet: World NetDriver shutdown SteamNetDriver_2147482352 [GameNetDriver]
-[2021.11.05-15.44.11:635][627]LogNet: DestroyNamedNetDriver SteamNetDriver_2147482352 [GameNetDriver]
-[2021.11.05-15.44.11:635][627]LogExit: GameNetDriver SteamNetDriver_2147482352 shut down
-[2021.11.05-15.44.11:636][627]LogWorld: UWorld::CleanupWorld for Hunt_Village, bSessionEnded=true, bCleanupResources=true
-[2021.11.05-15.44.11:636][627]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2021.11.05-15.44.11:676][627]LogAudio: Display: Waited 38.566502 ms for audio thread.
-[2021.11.05-15.44.11:681][627]LogAudio: Display: Audio Device unregistered from world 'None'.
-[2021.11.05-15.44.11:699][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
-[2021.11.05-15.44.11:704][627]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
-[2021.11.05-15.44.11:965][627]LogMaterial: Error: Tried to access an uncooked shader map ID in a cooked application
-[2021.11.05-15.44.11:965][627]LogMaterial: Warning: Invalid shader map ID caching shaders for 'M_SightOpticsMaster', will use default material.
-[2021.11.05-15.44.11:965][627]LogMaterial: Can't compile M_SightOpticsMaster with cooked content, will use default material instead
-[2021.11.05-15.44.11:965][627]LogMaterial: Warning: [AssetLog] /Game/FPSTemplate/Attachments/Sights/Materials/M_SightOpticsMaster.M_SightOpticsMaster: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
-[2021.11.05-15.44.12:034][627]LogAudio: Display: Audio Device (ID: 1) registered with world 'menu'.
-[2021.11.05-15.44.12:036][627]LogAIModule: Creating AISystem for world menu
-[2021.11.05-15.44.12:036][627]LogLoad: Game class is 'menuGM_C'
-[2021.11.05-15.44.12:039][627]LogWorld: Bringing World /Game/Game/Maps/menu.menu up for play (max tick rate 0) at 2021.11.05-18.44.12
-[2021.11.05-15.44.12:040][627]LogWorld: Bringing up level for play took: 0.002575
-[2021.11.05-15.44.12:051][627]LogOnlineSession: Warning: STEAM: Can't destroy a null online session (GameSession)
-[2021.11.05-15.44.12:053][627]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockAlways
-[2021.11.05-15.44.12:059][627]LogOnlineSession: Warning: STEAM: Can't destroy a null online session (GameSession)
-[2021.11.05-15.44.12:059][627]LogOnlineSession: Warning: STEAM: Ignoring game search request while one is pending
-[2021.11.05-15.44.12:060][627]LogLoad: Took 0.424964 seconds to LoadMap(/Game/Game/Maps/menu)
-[2021.11.05-15.44.12:063][627]LogSlate: Took 0.000373 seconds to synchronously load lazily loaded font '../../../Warzone/Content/ModularMenuSystem/Fonts/Ornamented_0_IMFell2.ufont' (191K)
-[2021.11.05-15.44.12:067][627]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2021.11.05-15.44.12:076][628]LogSlate: Took 0.000269 seconds to synchronously load lazily loaded font '../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont' (160K)
-[2021.11.05-15.44.12:078][628]LogSlate: Took 0.000277 seconds to synchronously load lazily loaded font '../../../Warzone/Content/ModularMenuSystem/Fonts/Ornamented_0_IMFell2.ufont' (191K)
-[2021.11.05-15.44.13:041][751]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
-[2021.11.05-15.44.13:041][751]LogOnlineSession: Warning: STEAM: Ignoring game search request while one is pending
-[2021.11.05-15.44.14:099][905]Closing by request
-[2021.11.05-15.44.14:099][905]LogWindows: FPlatformMisc::RequestExit(0)
-[2021.11.05-15.44.14:099][905]LogCore: Engine exit requested (reason: Win RequestExit)
-[2021.11.05-15.44.14:104][906]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
-[2021.11.05-15.44.14:105][906]LogInit: Display: PreExit Game.
-[2021.11.05-15.44.14:106][906]LogWorld: BeginTearingDown for /Game/Game/Maps/menu
-[2021.11.05-15.44.14:106][906]LogWorld: UWorld::CleanupWorld for menu, bSessionEnded=true, bCleanupResources=true
-[2021.11.05-15.44.14:107][906]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2021.11.05-15.44.14:673][906]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
-[2021.11.05-15.44.14:673][906]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
-[2021.11.05-15.44.14:673][906]LogAudio: Display: Audio Device unregistered from world 'menu'.
-[2021.11.05-15.44.14:706][906]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
-[2021.11.05-15.44.14:706][906]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
-[2021.11.05-15.44.14:719][906]LogAudio: Display: Audio Device Manager Shutdown
-[2021.11.05-15.44.14:719][906]LogSlate: Request Window 'Warzone (64-bit Development PCD3D_SM5) ' being destroyed
-[2021.11.05-15.44.14:726][906]LogSlate: Window 'Warzone (64-bit Development PCD3D_SM5) ' being destroyed
-[2021.11.05-15.44.14:726][906]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
-[2021.11.05-15.44.14:738][906]LogExit: Preparing to exit.
-[2021.11.05-15.44.14:738][906]LogMoviePlayer: Shutting down movie player
-[2021.11.05-15.44.14:740][906]LogDeviceProfile: Device profile begin destroy: [0000017481116040] Windows
-[2021.11.05-15.44.14:740][906]LogDeviceProfile: Device profile begin destroy: [0000017481115E00] Default__DeviceProfile
-[2021.11.05-15.44.14:740][906]LogDeviceProfile: Device profile begin destroy: [00000174811161C0] WindowsNoEditor
-[2021.11.05-15.44.14:747][906]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2021.11.05-15.44.14:763][906]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
-[2021.11.05-15.44.14:772][906]LogExit: Game engine shut down
-[2021.11.05-15.44.14:800][906]LogExit: Object subsystem successfully closed.
-[2021.11.05-15.44.14:813][906]LogModuleManager: Shutting down and abandoning module AutomationController (328)
-[2021.11.05-15.44.14:813][906]LogModuleManager: Shutting down and abandoning module AutomationWorker (326)
-[2021.11.05-15.44.14:813][906]LogModuleManager: Shutting down and abandoning module Voice (324)
-[2021.11.05-15.44.14:813][906]LogModuleManager: Shutting down and abandoning module AIModule (322)
-[2021.11.05-15.44.14:813][906]LogModuleManager: Shutting down and abandoning module GameplayDebugger (321)
-[2021.11.05-15.44.14:813][906]LogModuleManager: Shutting down and abandoning module NavigationSystem (319)
-[2021.11.05-15.44.14:813][906]LogModuleManager: Shutting down and abandoning module OculusMR (316)
-[2021.11.05-15.44.14:813][906]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (314)
-[2021.11.05-15.44.14:813][906]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (312)
-[2021.11.05-15.44.14:813][906]LogModuleManager: Shutting down and abandoning module WebMMedia (310)
-[2021.11.05-15.44.14:813][906]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (308)
-[2021.11.05-15.44.14:813][906]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (306)
-[2021.11.05-15.44.14:813][906]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (304)
-[2021.11.05-15.44.14:813][906]LogModuleManager: Shutting down and abandoning module PlanarCut (302)
-[2021.11.05-15.44.14:813][906]LogModuleManager: Shutting down and abandoning module CharacterAI (300)
-[2021.11.05-15.44.14:813][906]LogModuleManager: Shutting down and abandoning module SessionServices (298)
-[2021.11.05-15.44.14:813][906]LogModuleManager: Shutting down and abandoning module LiveCoding (296)
-[2021.11.05-15.44.14:814][906]LogModuleManager: Shutting down and abandoning module LevelSequence (294)
-[2021.11.05-15.44.14:814][906]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (292)
-[2021.11.05-15.44.14:814][906]LogModuleManager: Shutting down and abandoning module MovieScene (290)
-[2021.11.05-15.44.14:814][906]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (288)
-[2021.11.05-15.44.14:814][906]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (286)
-[2021.11.05-15.44.14:814][906]LogModuleManager: Shutting down and abandoning module AudioMixerCore (285)
-[2021.11.05-15.44.14:814][906]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (282)
-[2021.11.05-15.44.14:814][906]LogModuleManager: Shutting down and abandoning module ProfilerService (280)
-[2021.11.05-15.44.15:021][906]LogModuleManager: Shutting down and abandoning module TaskGraph (278)
-[2021.11.05-15.44.15:021][906]LogModuleManager: Shutting down and abandoning module OculusInput (276)
-[2021.11.05-15.44.15:021][906]LogModuleManager: Shutting down and abandoning module Synthesis (274)
-[2021.11.05-15.44.15:021][906]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (272)
-[2021.11.05-15.44.15:021][906]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (270)
-[2021.11.05-15.44.15:021][906]LogModuleManager: Shutting down and abandoning module EditableMesh (268)
-[2021.11.05-15.44.15:021][906]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (266)
-[2021.11.05-15.44.15:021][906]LogModuleManager: Shutting down and abandoning module CableComponent (264)
-[2021.11.05-15.44.15:021][906]LogModuleManager: Shutting down and abandoning module AssetTags (262)
-[2021.11.05-15.44.15:021][906]LogModuleManager: Shutting down and abandoning module AudioCapture (260)
-[2021.11.05-15.44.15:021][906]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (259)
-[2021.11.05-15.44.15:021][906]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (256)
-[2021.11.05-15.44.15:021][906]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (254)
-[2021.11.05-15.44.15:021][906]LogModuleManager: Shutting down and abandoning module AppleImageUtils (252)
-[2021.11.05-15.44.15:021][906]LogModuleManager: Shutting down and abandoning module TemplateSequence (250)
-[2021.11.05-15.44.15:021][906]LogModuleManager: Shutting down and abandoning module MediaCompositing (246)
-[2021.11.05-15.44.15:021][906]LogModuleManager: Shutting down and abandoning module ImgMedia (244)
-[2021.11.05-15.44.15:021][906]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (242)
-[2021.11.05-15.44.15:021][906]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (240)
-[2021.11.05-15.44.15:021][906]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (238)
-[2021.11.05-15.44.15:021][906]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (236)
-[2021.11.05-15.44.15:021][906]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (234)
-[2021.11.05-15.44.15:021][906]LogModuleManager: Shutting down and abandoning module MotoSynth (232)
-[2021.11.05-15.44.15:021][906]LogModuleManager: Shutting down and abandoning module MeshConversion (230)
-[2021.11.05-15.44.15:021][906]LogModuleManager: Shutting down and abandoning module DynamicMesh (228)
-[2021.11.05-15.44.15:021][906]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (226)
-[2021.11.05-15.44.15:021][906]LogModuleManager: Shutting down and abandoning module GeometricObjects (224)
-[2021.11.05-15.44.15:021][906]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (222)
-[2021.11.05-15.44.15:021][906]LogModuleManager: Shutting down and abandoning module GeometryCache (220)
-[2021.11.05-15.44.15:021][906]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (218)
-[2021.11.05-15.44.15:021][906]LogModuleManager: Shutting down and abandoning module ChaosNiagara (216)
-[2021.11.05-15.44.15:021][906]LogModuleManager: Shutting down and abandoning module BackChannel (214)
-[2021.11.05-15.44.15:021][906]LogModuleManager: Shutting down and abandoning module AutomationUtils (212)
-[2021.11.05-15.44.15:021][906]LogModuleManager: Shutting down and abandoning module UObjectPlugin (210)
-[2021.11.05-15.44.15:022][906]LogModuleManager: Shutting down and abandoning module Warzone (208)
-[2021.11.05-15.44.15:022][906]LogModuleManager: Shutting down and abandoning module AdvancedSteamSessions (206)
-[2021.11.05-15.44.15:022][906]LogModuleManager: Shutting down and abandoning module AdvancedSessions (204)
-[2021.11.05-15.44.15:022][906]LogModuleManager: Shutting down and abandoning module SoundFields (202)
-[2021.11.05-15.44.15:022][906]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (200)
-[2021.11.05-15.44.15:022][906]LogModuleManager: Shutting down and abandoning module SignificanceManager (198)
-[2021.11.05-15.44.15:022][906]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (194)
-[2021.11.05-15.44.15:022][906]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (192)
-[2021.11.05-15.44.15:022][906]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (190)
-[2021.11.05-15.44.15:022][906]LogModuleManager: Shutting down and abandoning module UdpMessaging (188)
-[2021.11.05-15.44.15:022][906]LogModuleManager: Shutting down and abandoning module TcpMessaging (186)
-[2021.11.05-15.44.15:022][906]LogModuleManager: Shutting down and abandoning module ActorSequence (184)
-[2021.11.05-15.44.15:022][906]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (182)
-[2021.11.05-15.44.15:022][906]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (180)
-[2021.11.05-15.44.15:022][906]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (178)
-[2021.11.05-15.44.15:022][906]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (176)
-[2021.11.05-15.44.15:022][906]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (174)
-[2021.11.05-15.44.15:022][906]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (172)
-[2021.11.05-15.44.15:022][906]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (170)
-[2021.11.05-15.44.15:022][906]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (168)
-[2021.11.05-15.44.15:022][906]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (166)
-[2021.11.05-15.44.15:022][906]LogModuleManager: Shutting down and abandoning module MagicLeapController (164)
-[2021.11.05-15.44.15:022][906]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
-[2021.11.05-15.44.15:022][906]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (162)
-[2021.11.05-15.44.15:022][906]LogModuleManager: Shutting down and abandoning module MagicLeapAR (160)
-[2021.11.05-15.44.15:022][906]LogModuleManager: Shutting down and abandoning module AugmentedReality (159)
-[2021.11.05-15.44.15:022][906]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (156)
-[2021.11.05-15.44.15:022][906]LogModuleManager: Shutting down and abandoning module Niagara (154)
-[2021.11.05-15.44.15:022][906]LogModuleManager: Shutting down and abandoning module SignalProcessing (153)
-[2021.11.05-15.44.15:022][906]LogModuleManager: Shutting down and abandoning module NiagaraCore (150)
-[2021.11.05-15.44.15:022][906]LogModuleManager: Shutting down and abandoning module FacialAnimation (148)
-[2021.11.05-15.44.15:022][906]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (146)
-[2021.11.05-15.44.15:022][906]LogModuleManager: Shutting down and abandoning module AnimationSharing (144)
-[2021.11.05-15.44.15:022][906]LogModuleManager: Shutting down and abandoning module Paper2D (142)
-[2021.11.05-15.44.15:022][906]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (140)
-[2021.11.05-15.44.15:022][906]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (138)
-[2021.11.05-15.44.15:022][906]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (136)
-[2021.11.05-15.44.15:023][906]LogModuleManager: Shutting down and abandoning module PacketHandler (134)
-[2021.11.05-15.44.15:023][906]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (132)
-[2021.11.05-15.44.15:023][906]LogModuleManager: Shutting down and abandoning module MediaAssets (130)
-[2021.11.05-15.44.15:023][906]LogModuleManager: Shutting down and abandoning module Overlay (128)
-[2021.11.05-15.44.15:023][906]LogModuleManager: Shutting down and abandoning module FunctionalTesting (126)
-[2021.11.05-15.44.15:023][906]LogModuleManager: Shutting down and abandoning module MessageLog (124)
-[2021.11.05-15.44.15:023][906]LogModuleManager: Shutting down and abandoning module UMG (122)
-[2021.11.05-15.44.15:023][906]LogModuleManager: Shutting down and abandoning module SlateReflector (120)
-[2021.11.05-15.44.15:023][906]LogModuleManager: Shutting down and abandoning module Slate (118)
-[2021.11.05-15.44.15:023][906]LogModuleManager: Shutting down and abandoning module SlateCore (116)
-[2021.11.05-15.44.15:024][906]LogModuleManager: Shutting down and abandoning module MRMesh (114)
-[2021.11.05-15.44.15:024][906]LogModuleManager: Shutting down and abandoning module Messaging (112)
-[2021.11.05-15.44.15:024][906]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (110)
-[2021.11.05-15.44.15:024][906]LogModuleManager: Shutting down and abandoning module XAudio2 (108)
-[2021.11.05-15.44.15:024][906]LogModuleManager: Shutting down and abandoning module Networking (106)
-[2021.11.05-15.44.15:024][906]LogModuleManager: Shutting down and abandoning module Core (104)
-[2021.11.05-15.44.15:024][906]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (102)
-[2021.11.05-15.44.15:024][906]LogModuleManager: Shutting down and abandoning module ImageWrapper (98)
-[2021.11.05-15.44.15:024][906]LogModuleManager: Shutting down and abandoning module InputCore (96)
-[2021.11.05-15.44.15:024][906]LogModuleManager: Shutting down and abandoning module Settings (94)
-[2021.11.05-15.44.15:024][906]LogModuleManager: Shutting down and abandoning module PhysXCooking (92)
-[2021.11.05-15.44.15:024][906]LogModuleManager: Shutting down and abandoning module Chaos (90)
-[2021.11.05-15.44.15:024][906]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (88)
-[2021.11.05-15.44.15:024][906]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (87)
-[2021.11.05-15.44.15:025][906]LogModuleManager: Shutting down and abandoning module AVEncoder (86)
-[2021.11.05-15.44.15:025][906]LogModuleManager: Shutting down and abandoning module OculusHMD (82)
-[2021.11.05-15.44.15:025][906]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (80)
-[2021.11.05-15.44.15:025][906]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (78)
-[2021.11.05-15.44.15:025][906]LogModuleManager: Shutting down and abandoning module ChunkDownloader (76)
-[2021.11.05-15.44.15:025][906]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (72)
-[2021.11.05-15.44.15:025][906]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
-[2021.11.05-15.44.15:025][906]LogOnline: STEAM: AUTH: Revoking all tickets.
-[2021.11.05-15.44.15:025][906]LogSteamShared: Unloading the Steam API...
-[2021.11.05-15.44.15:029][906]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
-[2021.11.05-15.44.15:029][906]LogModuleManager: Shutting down and abandoning module SteamShared (68)
-[2021.11.05-15.44.15:029][906]LogSteamShared: Freeing the Steam Loaded Modules...
-[2021.11.05-15.44.15:029][906]LogModuleManager: Shutting down and abandoning module HTTP (65)
-[2021.11.05-15.44.15:029][906]LogHttp: Display: cleaning up 0 outstanding Http requests.
-[2021.11.05-15.44.15:038][906]LogModuleManager: Shutting down and abandoning module SSL (64)
-[2021.11.05-15.44.15:038][906]LogModuleManager: Shutting down and abandoning module WmfMedia (60)
-[2021.11.05-15.44.15:039][906]LogModuleManager: Shutting down and abandoning module Media (59)
-[2021.11.05-15.44.15:039][906]LogModuleManager: Shutting down and abandoning module MediaInfo (58)
-[2021.11.05-15.44.15:039][906]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (54)
-[2021.11.05-15.44.15:039][906]LogModuleManager: Shutting down and abandoning module MLSDK (52)
-[2021.11.05-15.44.15:039][906]LogModuleManager: Shutting down and abandoning module MagicLeap (50)
-[2021.11.05-15.44.15:039][906]LogModuleManager: Shutting down and abandoning module ChaosCloth (48)
-[2021.11.05-15.44.15:039][906]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
-[2021.11.05-15.44.15:039][906]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (44)
-[2021.11.05-15.44.15:039][906]LogModuleManager: Shutting down and abandoning module NiagaraShader (42)
-[2021.11.05-15.44.15:039][906]LogModuleManager: Shutting down and abandoning module VariantManagerContent (40)
-[2021.11.05-15.44.15:039][906]LogModuleManager: Shutting down and abandoning module AISupportModule (38)
-[2021.11.05-15.44.15:039][906]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (36)
-[2021.11.05-15.44.15:039][906]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (34)
-[2021.11.05-15.44.15:039][906]LogModuleManager: Shutting down and abandoning module PlatformCrypto (32)
-[2021.11.05-15.44.15:039][906]LogModuleManager: Shutting down and abandoning module RenderCore (30)
-[2021.11.05-15.44.15:039][906]LogModuleManager: Shutting down and abandoning module Landscape (28)
-[2021.11.05-15.44.15:039][906]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
-[2021.11.05-15.44.15:040][906]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
-[2021.11.05-15.44.15:040][906]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
-[2021.11.05-15.44.15:040][906]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
-[2021.11.05-15.44.15:040][906]LogModuleManager: Shutting down and abandoning module Renderer (18)
-[2021.11.05-15.44.15:040][906]LogModuleManager: Shutting down and abandoning module Engine (16)
-[2021.11.05-15.44.15:040][906]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
-[2021.11.05-15.44.15:040][906]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
-[2021.11.05-15.44.15:040][906]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
-[2021.11.05-15.44.15:040][906]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
-[2021.11.05-15.44.15:040][906]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
-[2021.11.05-15.44.15:040][906]LogModuleManager: Shutting down and abandoning module PakFile (4)
-[2021.11.05-15.44.15:040][906]LogModuleManager: Shutting down and abandoning module RSA (3)
-[2021.11.05-15.44.15:040][906]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
-[2021.11.05-15.44.15:041][906]LogD3D11RHI: Shutdown
-[2021.11.05-15.44.15:041][906]LogD3D11RHI: CleanupD3DDevice
-[2021.11.05-15.44.15:047][906]LogExit: Exiting.
-[2021.11.05-15.44.15:055][906]Log file closed, 11/05/21 18:44:15
+[2021.11.08-20.41.33:129][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2021.11.08-20.41.33:129][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.11.08-20.41.33:129][  0]LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2021.11.08-20.41.33:129][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [../../../Warzone/Saved/Config/WindowsNoEditor/Engine.ini]
+[2021.11.08-20.41.33:129][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.11.08-20.41.33:129][  0]LogConfig: Setting CVar [[r.CustomDepth:3]]
+[2021.11.08-20.41.33:129][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [../../../Warzone/Saved/Config/WindowsNoEditor/Engine.ini]
+[2021.11.08-20.41.33:129][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [../../../Warzone/Saved/Config/WindowsNoEditor/Engine.ini]
+[2021.11.08-20.41.33:129][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.11.08-20.41.33:129][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.11.08-20.41.33:129][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.11.08-20.41.33:129][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.11.08-20.41.33:129][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.11.08-20.41.33:129][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.11.08-20.41.33:129][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.11.08-20.41.33:129][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.11.08-20.41.33:129][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.11.08-20.41.33:129][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.11.08-20.41.33:129][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.11.08-20.41.33:129][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.11.08-20.41.33:129][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.11.08-20.41.33:129][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.11.08-20.41.33:129][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [../../../Warzone/Saved/Config/WindowsNoEditor/Engine.ini]
+[2021.11.08-20.41.33:129][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.11.08-20.41.33:129][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.11.08-20.41.33:129][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.11.08-20.41.33:129][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.11.08-20.41.33:129][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.11.08-20.41.33:129][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.11.08-20.41.33:129][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.11.08-20.41.33:129][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.11.08-20.41.33:129][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.11.08-20.41.33:129][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.11.08-20.41.33:129][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.11.08-20.41.33:129][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.11.08-20.41.33:129][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.11.08-20.41.33:129][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.11.08-20.41.33:129][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [../../../Warzone/Saved/Config/WindowsNoEditor/Engine.ini]
+[2021.11.08-20.41.33:139][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../Warzone/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2021.11.08-20.41.33:139][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.08-20.41.33:139][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.08-20.41.33:139][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../Warzone/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2021.11.08-20.41.33:139][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.08-20.41.33:139][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../Warzone/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2021.11.08-20.41.33:139][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.08-20.41.33:139][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.08-20.41.33:139][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.08-20.41.33:139][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.08-20.41.33:139][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.08-20.41.33:139][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.08-20.41.33:139][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.08-20.41.33:139][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.08-20.41.33:139][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.08-20.41.33:139][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.08-20.41.33:139][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.08-20.41.33:139][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.08-20.41.33:139][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.08-20.41.33:139][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.08-20.41.33:139][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.08-20.41.33:139][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.08-20.41.33:139][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.08-20.41.33:139][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.08-20.41.33:139][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../Warzone/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2021.11.08-20.41.33:139][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.08-20.41.33:139][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.08-20.41.33:139][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.08-20.41.33:139][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.08-20.41.33:139][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.08-20.41.33:139][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.08-20.41.33:139][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.08-20.41.33:139][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.08-20.41.33:139][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.08-20.41.33:139][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.08-20.41.33:139][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.08-20.41.33:139][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.08-20.41.33:139][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.08-20.41.33:139][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.08-20.41.33:139][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.08-20.41.33:139][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.08-20.41.33:139][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.08-20.41.33:139][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.08-20.41.33:139][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.08-20.41.33:139][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.08-20.41.33:139][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.08-20.41.33:139][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.08-20.41.33:139][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.08-20.41.33:139][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.08-20.41.33:139][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.08-20.41.33:139][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.08-20.41.33:139][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.08-20.41.33:139][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.08-20.41.33:139][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.08-20.41.33:139][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.08-20.41.33:139][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../Warzone/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2021.11.08-20.41.33:139][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.08-20.41.33:139][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.08-20.41.33:139][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.08-20.41.33:139][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.08-20.41.33:140][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.08-20.41.33:140][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.08-20.41.33:140][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.08-20.41.33:140][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.08-20.41.33:140][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.08-20.41.33:140][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../Warzone/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2021.11.08-20.41.33:140][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.08-20.41.33:140][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.08-20.41.33:140][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.08-20.41.33:140][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.08-20.41.33:140][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.08-20.41.33:140][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.08-20.41.33:140][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.08-20.41.33:140][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.08-20.41.33:140][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.11.08-20.41.33:140][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.08-20.41.33:140][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.08-20.41.33:140][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.08-20.41.33:140][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.08-20.41.33:140][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.08-20.41.33:140][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.08-20.41.33:140][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.08-20.41.33:140][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.08-20.41.33:140][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.11.08-20.41.33:140][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.08-20.41.33:140][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.08-20.41.33:140][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.08-20.41.33:140][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.11.08-20.41.33:140][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.08-20.41.33:140][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.11.08-20.41.33:140][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.08-20.41.33:140][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.08-20.41.33:140][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.08-20.41.33:140][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2021.11.08-20.41.33:140][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../Warzone/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2021.11.08-20.41.33:140][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.08-20.41.33:140][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.08-20.41.33:140][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [../../../Warzone/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2021.11.08-20.41.33:140][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.11.08-20.41.33:140][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.11.08-20.41.33:140][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.11.08-20.41.33:140][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2021.11.08-20.41.33:140][  0]LogInit: Applying CVar settings loaded from the selected device profile: [WindowsNoEditor]
+[2021.11.08-20.41.33:140][  0]LogHAL: Display: Platform has ~ 10 GB [10673074176 / 17179869184 / 10], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.11.08-20.41.33:140][  0]LogInit: Going up to parent DeviceProfile [Windows]
+[2021.11.08-20.41.33:140][  0]LogInit: Going up to parent DeviceProfile []
+[2021.11.08-20.41.33:140][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../Warzone/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2021.11.08-20.41.33:140][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.08-20.41.33:140][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.08-20.41.33:140][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../Warzone/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2021.11.08-20.41.33:140][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.08-20.41.33:140][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../Warzone/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2021.11.08-20.41.33:140][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.08-20.41.33:140][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.08-20.41.33:140][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.08-20.41.33:140][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.08-20.41.33:140][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.08-20.41.33:140][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.08-20.41.33:140][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.08-20.41.33:140][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.08-20.41.33:140][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.08-20.41.33:140][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../Warzone/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../Warzone/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../Warzone/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.08-20.41.33:141][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.08-20.41.33:142][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2021.11.08-20.41.33:142][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../Warzone/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2021.11.08-20.41.33:142][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.08-20.41.33:142][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.08-20.41.33:142][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [../../../Warzone/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2021.11.08-20.41.33:142][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.11.08-20.41.33:142][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.11.08-20.41.33:142][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.11.08-20.41.33:142][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.11.08-20.41.33:142][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.11.08-20.41.33:142][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.11.08-20.41.33:142][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.11.08-20.41.33:142][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [../../../Warzone/Saved/Config/WindowsNoEditor/Engine.ini]
+[2021.11.08-20.41.33:142][  0]LogInit: Computer: DESKTOP-AIJCTV2
+[2021.11.08-20.41.33:142][  0]LogInit: User: Nick
+[2021.11.08-20.41.33:142][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.11.08-20.41.33:142][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.11.08-20.41.33:142][  0]LogMemory: Memory total: Physical=9.9GB (10GB approx)
+[2021.11.08-20.41.33:142][  0]LogMemory: Platform Memory Stats for WindowsNoEditor
+[2021.11.08-20.41.33:142][  0]LogMemory: Process Physical Memory: 95.90 MB used, 95.91 MB peak
+[2021.11.08-20.41.33:142][  0]LogMemory: Process Virtual Memory: 83.54 MB used, 83.54 MB peak
+[2021.11.08-20.41.33:142][  0]LogMemory: Physical Memory: 2960.14 MB used,  7218.50 MB free, 10178.64 MB total
+[2021.11.08-20.41.33:142][  0]LogMemory: Virtual Memory: 134202248.00 MB used,  15482.79 MB free, 134217728.00 MB total
+[2021.11.08-20.41.33:150][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.11.08-20.41.33:192][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.11.08-20.41.33:192][  0]LogInit: Using OS detected language (ru-RU).
+[2021.11.08-20.41.33:192][  0]LogInit: Using OS detected locale (ru-RU).
+[2021.11.08-20.41.33:193][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the language.
+[2021.11.08-20.41.33:193][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the locale.
+[2021.11.08-20.41.33:210][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.08-20.41.33:220][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.11.08-20.41.33:221][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.11.08-20.41.33:238][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.11.08-20.41.33:238][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.11.08-20.41.33:238][  0]LogD3D11RHI: D3D11 adapters:
+[2021.11.08-20.41.33:414][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1650' (Feature Level 11_0)
+[2021.11.08-20.41.33:414][  0]LogD3D11RHI:       3964/0/5089 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.11.08-20.41.33:468][  0]LogD3D11RHI:    1. 'AMD Radeon(TM) Vega 8 Graphics' (Feature Level 11_0)
+[2021.11.08-20.41.33:468][  0]LogD3D11RHI:       2033/0/5089 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2021.11.08-20.41.33:471][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.11.08-20.41.33:471][  0]LogD3D11RHI:       0/0/5089 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.11.08-20.41.33:471][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.11.08-20.41.33:477][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.11.08-20.41.33:477][  0]LogD3D11RHI:     GPU DeviceId: 0x1f91 (for the marketing name, search the web for "GPU Device Id")
+[2021.11.08-20.41.33:477][  0]LogWindows: EnumDisplayDevices:
+[2021.11.08-20.41.33:477][  0]LogWindows:    0. 'AMD Radeon(TM) Vega 8 Graphics ' (P:1 D:1)
+[2021.11.08-20.41.33:478][  0]LogWindows:    1. 'AMD Radeon(TM) Vega 8 Graphics ' (P:0 D:0)
+[2021.11.08-20.41.33:478][  0]LogWindows:    2. 'AMD Radeon(TM) Vega 8 Graphics ' (P:0 D:0)
+[2021.11.08-20.41.33:478][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2021.11.08-20.41.33:478][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650
+[2021.11.08-20.41.33:478][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2021.11.08-20.41.33:478][  0]LogD3D11RHI:      Driver Date: Unknown
+[2021.11.08-20.41.33:478][  0]LogRHI: Texture pool is 2774 MB (70% of 3964 MB)
+[2021.11.08-20.41.33:549][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.11.08-20.41.33:549][  0]LogD3D11RHI: Async texture creation enabled
+[2021.11.08-20.41.33:549][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.11.08-20.41.33:577][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.11.08-20.41.33:582][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.11.08-20.41.33:582][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.11.08-20.41.33:582][  0]LogShaderLibrary: Display: Using ../../../Warzone/Content/ShaderArchive-Global-PCD3D_SM5.ushaderbytecode for material shader code. Total 2081 unique shaders.
+[2021.11.08-20.41.33:582][  0]LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library Global
+[2021.11.08-20.41.33:583][  0]LogTemp: Warning: Clearing the OS Cache
+[2021.11.08-20.41.33:607][  0]LogSlate: Using FreeType 2.10.0
+[2021.11.08-20.41.33:608][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.11.08-20.41.33:700][  0]LogShaderLibrary: Display: Using ../../../Warzone/Content/ShaderArchive-Warzone-PCD3D_SM5.ushaderbytecode for material shader code. Total 3988 unique shaders.
+[2021.11.08-20.41.33:700][  0]LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library Warzone
+[2021.11.08-20.41.33:700][  0]LogRHI: Display: Opened pipeline cache after state change and enqueued 0 of 0 tasks for precompile.
+[2021.11.08-20.41.33:700][  0]LogRHI: Display: Failed to open default shader pipeline cache for Warzone using shader platform 0.
+[2021.11.08-20.41.33:700][  0]LogRHI: Display: Failed to open default shader pipeline cache for Warzone using shader platform 0.
+[2021.11.08-20.41.33:700][  0]LogInit: Using OS detected language (ru-RU).
+[2021.11.08-20.41.33:700][  0]LogInit: Using OS detected locale (ru-RU).
+[2021.11.08-20.41.33:700][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the language.
+[2021.11.08-20.41.33:700][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the locale.
+[2021.11.08-20.41.33:701][  0]LogTextLocalizationManager: Compacting localization data took   0.69ms
+[2021.11.08-20.41.33:709][  0]LogAssetRegistry: FAssetRegistry took 0.0078 seconds to start up
+[2021.11.08-20.41.33:812][  0]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2021.11.08-20.41.33:813][  0]LogPackageLocalizationCache: Processed 21 localized package path(s) for 1 prioritized culture(s) in 0.000108 seconds
+[2021.11.08-20.41.33:819][  0]LogSerialization: Display: AllowBulkDataInIoStore: 'true'
+[2021.11.08-20.41.33:819][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2021.11.08-20.41.33:820][  0]LogInit: Active device profile: [0000012484D03280][0000012484CEEC50 49] WindowsNoEditor
+[2021.11.08-20.41.33:820][  0]LogInit: Profiles: [0000012484D06280][00000124FE2113C0 49] Windows, [0000012484D03280][0000012484CEEC50 49] WindowsNoEditor, 
+[2021.11.08-20.41.33:833][  0]LogNetVersion: Warzone 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3732354823)
+[2021.11.08-20.41.33:880][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.08-20.41.33:880][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.08-20.41.33:881][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.11.08-20.41.33:909][  0]LogMoviePlayer: Initializing movie player
+[2021.11.08-20.41.33:911][  0]LogOcInput: OculusInput pre-init called
+[2021.11.08-20.41.33:915][  0]LogUObjectArray: 15339 objects as part of root set at end of initial load.
+[2021.11.08-20.41.33:915][  0]LogUObjectArray: 2 objects are not in the root set, but can never be destroyed because they are in the DisregardForGC set.
+[2021.11.08-20.41.33:915][  0]LogUObjectAllocator: 3130872 out of 0 bytes used by permanent object pool.
+[2021.11.08-20.41.33:915][  0]LogUObjectArray: CloseDisregardForGC: 15339/15339 objects in disregard for GC pool
+[2021.11.08-20.41.33:916][  0]LogEngine: Initializing Engine...
+[2021.11.08-20.41.33:917][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.11.08-20.41.33:977][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.11.08-20.41.33:977][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.11.08-20.41.33:977][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.11.08-20.41.33:977][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.11.08-20.41.33:977][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.08-20.41.33:977][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.08-20.41.33:977][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.08-20.41.33:977][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.08-20.41.33:977][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.08-20.41.33:977][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.08-20.41.33:978][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.08-20.41.33:978][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.08-20.41.33:978][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.08-20.41.33:978][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.08-20.41.33:993][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.11.08-20.41.33:997][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.08-20.41.33:997][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.11.08-20.41.34:009][  0]LogAudioMixer: Display: Using Audio Device Динамики (Realtek Audio)
+[2021.11.08-20.41.34:009][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.08-20.41.34:011][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.08-20.41.34:011][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.08-20.41.34:012][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.08-20.41.34:012][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.08-20.41.34:012][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.08-20.41.34:013][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.08-20.41.34:013][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.08-20.41.34:013][  0]LogInit: FAudioDevice initialized.
+[2021.11.08-20.41.34:014][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.11.08-20.41.34:014][  0]LogInit: Texture streaming: Enabled
+[2021.11.08-20.41.34:018][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.11.08-20.41.34:018][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.08-20.41.34:019][  0]LogInit: Display: Game Engine Initialized.
+[2021.11.08-20.41.34:020][  0]LogInit: Display: Starting Game.
+[2021.11.08-20.41.34:020][  0]LogNet: Browse: /Game/Game/Maps/menu?Name=Player
+[2021.11.08-20.41.34:020][  0]LogLoad: LoadMap: /Game/Game/Maps/menu?Name=Player
+[2021.11.08-20.41.34:020][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2021.11.08-20.41.34:021][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.11.08-20.41.34:021][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.08-20.41.34:024][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.08-20.41.34:026][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.11.08-20.41.34:291][  0]LogMaterial: Error: Tried to access an uncooked shader map ID in a cooked application
+[2021.11.08-20.41.34:291][  0]LogMaterial: Warning: Invalid shader map ID caching shaders for 'M_SightOpticsMaster', will use default material.
+[2021.11.08-20.41.34:291][  0]LogMaterial: Can't compile M_SightOpticsMaster with cooked content, will use default material instead
+[2021.11.08-20.41.34:291][  0]LogMaterial: Warning: [AssetLog] /Game/FPSTemplate/Attachments/Sights/Materials/M_SightOpticsMaster.M_SightOpticsMaster: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.11.08-20.41.34:345][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'menu'.
+[2021.11.08-20.41.34:346][  0]LogAIModule: Creating AISystem for world menu
+[2021.11.08-20.41.34:347][  0]LogLoad: Game class is 'menuGM_C'
+[2021.11.08-20.41.34:352][  0]LogWorld: Bringing World /Game/Game/Maps/menu.menu up for play (max tick rate 0) at 2021.11.08-23.41.34
+[2021.11.08-20.41.34:352][  0]LogWorld: Bringing up level for play took: 0.004518
+[2021.11.08-20.41.34:410][  0]LogOnlineSession: Warning: STEAM: Can't destroy a null online session (GameSession)
+[2021.11.08-20.41.34:412][  0]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2021.11.08-20.41.34:412][  0]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.11.08-20.41.34:418][  0]LogOnlineSession: Warning: STEAM: Can't destroy a null online session (GameSession)
+[2021.11.08-20.41.34:418][  0]LogOnlineSession: Warning: STEAM: Ignoring game search request while one is pending
+[2021.11.08-20.41.34:419][  0]LogEngine: Onscreen warnings/messages are now DISABLED
+[2021.11.08-20.41.34:419][  0]LogBlueprintUserMessages: [menu_C_1] disableallscreenmessages disabled
+[2021.11.08-20.41.34:419][  0]LogLoad: Took 0.399060 seconds to LoadMap(/Game/Game/Maps/menu)
+[2021.11.08-20.41.34:420][  0]LogSlate: Took 0.000264 seconds to synchronously load lazily loaded font '../../../Warzone/Content/ModularMenuSystem/Fonts/Ornamented_0_IMFell2.ufont' (191K)
+[2021.11.08-20.41.34:438][  0]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 10 NumSamples 1 (Frame:1).
+[2021.11.08-20.41.34:438][  0]LogRHI: Display: ShaderPipelineCache: Paused Batching. 1
+[2021.11.08-20.41.34:438][  0]LogRHI: Display: ShaderPipelineCache: Resumed Batching. 0
+[2021.11.08-20.41.34:438][  0]LogRHI: Display: ShaderPipelineCache: Batching Resumed.
+[2021.11.08-20.41.34:438][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.11.08-20.41.34:438][  0]LogLoad: (Engine Initialization) Total time: 2.49 seconds
+[2021.11.08-20.41.34:438][  0]LogInit: First time updating LLM stats...
+[2021.11.08-20.41.34:472][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.11.08-20.41.34:484][  1]LogSlate: Took 0.000309 seconds to synchronously load lazily loaded font '../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont' (160K)
+[2021.11.08-20.41.35:057][ 53]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2021.11.08-20.41.35:058][ 53]LogOnlineSession: Warning: STEAM: Ignoring game search request while one is pending
+[2021.11.08-20.41.35:932][164]LogOnlineSession: Warning: STEAM: Server response IP:91.214.119.165
+[2021.11.08-20.41.35:932][164]LogOnlineSession: Warning: STEAM: Removed incompatible build: ServerBuildUniqueId = 0x00000000, GetBuildUniqueId() = 0x00e24b58
+[2021.11.08-20.41.36:032][177]LogOnlineSession: Warning: STEAM: Server response IP:37.10.126.113
+[2021.11.08-20.41.36:032][177]LogOnlineSession: Warning: STEAM: Removed incompatible build: ServerBuildUniqueId = 0x00000000, GetBuildUniqueId() = 0x00e24b58
+[2021.11.08-20.41.36:132][190]LogOnlineSession: Warning: STEAM: Server response IP:209.159.148.138
+[2021.11.08-20.41.36:132][190]LogOnlineSession: Warning: STEAM: Removed incompatible build: ServerBuildUniqueId = 0x00000000, GetBuildUniqueId() = 0x00e24b58
+[2021.11.08-20.41.36:182][197]LogOnlineSession: Warning: STEAM: Server response IP:20.151.66.71
+[2021.11.08-20.41.36:182][197]LogOnlineSession: Warning: STEAM: Removed incompatible build: ServerBuildUniqueId = 0x00000000, GetBuildUniqueId() = 0x00e24b58
+[2021.11.08-20.41.36:232][204]LogOnlineSession: Warning: STEAM: Server response IP:20.151.66.71
+[2021.11.08-20.41.36:232][204]LogOnlineSession: Warning: STEAM: Removed incompatible build: ServerBuildUniqueId = 0x00000000, GetBuildUniqueId() = 0x00e24b58
+[2021.11.08-20.41.37:734][404]LogOnlineSession: Warning: STEAM: Failed to respond IP:47.232.163.23
+[2021.11.08-20.41.37:734][404]LogOnlineSession: Warning: STEAM: Failed to respond IP:85.227.133.25
+[2021.11.08-20.41.37:734][404]LogOnlineSession: Warning: STEAM: Failed to respond IP:162.214.98.180
+[2021.11.08-20.42.13:618][480]LogSlate: Took 0.000235 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.11.08-20.42.21:041][511]LogOnlineSession: Warning: STEAM: Can't destroy a null online session (GameSession)
+[2021.11.08-20.42.21:554][578]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2021.11.08-20.42.22:408][690]LogOnlineSession: Warning: STEAM: Server response IP:91.214.119.165
+[2021.11.08-20.42.22:408][690]LogOnlineSession: Warning: STEAM: Removed incompatible build: ServerBuildUniqueId = 0x00000000, GetBuildUniqueId() = 0x00e24b58
+[2021.11.08-20.42.22:509][703]LogOnlineSession: Warning: STEAM: Server response IP:37.10.126.113
+[2021.11.08-20.42.22:509][703]LogOnlineSession: Warning: STEAM: Removed incompatible build: ServerBuildUniqueId = 0x00000000, GetBuildUniqueId() = 0x00e24b58
+[2021.11.08-20.42.22:609][716]LogOnlineSession: Warning: STEAM: Server response IP:209.159.148.138
+[2021.11.08-20.42.22:609][716]LogOnlineSession: Warning: STEAM: Removed incompatible build: ServerBuildUniqueId = 0x00000000, GetBuildUniqueId() = 0x00e24b58
+[2021.11.08-20.42.22:709][729]LogOnlineSession: Warning: STEAM: Server response IP:20.151.66.71
+[2021.11.08-20.42.22:709][729]LogOnlineSession: Warning: STEAM: Removed incompatible build: ServerBuildUniqueId = 0x00000000, GetBuildUniqueId() = 0x00e24b58
+[2021.11.08-20.42.22:709][729]LogOnlineSession: Warning: STEAM: Server response IP:20.151.66.71
+[2021.11.08-20.42.22:709][729]LogOnlineSession: Warning: STEAM: Removed incompatible build: ServerBuildUniqueId = 0x00000000, GetBuildUniqueId() = 0x00e24b58
+[2021.11.08-20.42.24:162][919]LogOnlineSession: Warning: STEAM: Failed to respond IP:85.227.133.25
+[2021.11.08-20.42.24:211][926]LogOnlineSession: Warning: STEAM: Failed to respond IP:47.232.163.23
+[2021.11.08-20.42.24:211][926]LogOnlineSession: Warning: STEAM: Failed to respond IP:162.214.98.180
+[2021.11.08-20.42.24:614][973]LogOnlineSession: Verbose: OSS: dumping NamedSession: 
+[2021.11.08-20.42.24:614][973]LogOnlineSession: Verbose: OSS: 	SessionName: GameSession
+[2021.11.08-20.42.24:614][973]LogOnlineSession: Verbose: OSS: 	HostingPlayerNum: 0
+[2021.11.08-20.42.24:614][973]LogOnlineSession: Verbose: OSS: 	SessionState: Pending
+[2021.11.08-20.42.24:614][973]LogOnlineSession: Verbose: OSS: 	RegisteredPlayers: 
+[2021.11.08-20.42.24:614][973]LogOnlineSession: Verbose: OSS: 	    0 registered players
+[2021.11.08-20.42.24:614][973]LogOnlineSession: Verbose: OSS: dumping Session: 
+[2021.11.08-20.42.24:614][973]LogOnlineSession: Verbose: OSS: 	OwningPlayerName: My name is Nick
+[2021.11.08-20.42.24:624][973]LogOnlineSession: Verbose: OSS: 	OwningPlayerId: My name is Nick [0x124F360D6C0]
+[2021.11.08-20.42.24:625][973]LogOnlineSession: Verbose: OSS: 	NumOpenPrivateConnections: 0
+[2021.11.08-20.42.24:625][973]LogOnlineSession: Verbose: OSS: 	NumOpenPublicConnections: 79
+[2021.11.08-20.42.24:625][973]LogOnlineSession: Verbose: OSS: 	SessionInfo: HostIP: INVALID SteamP2P: 76561198408077902:7777 Type: Lobby session SessionId: Lobby[0x18600000B3BCC22]
+[2021.11.08-20.42.24:625][973]LogOnlineSession: Verbose: OSS: dumping SessionSettings: 
+[2021.11.08-20.42.24:625][973]LogOnlineSession: Verbose: OSS: 	NumPublicConnections: 80
+[2021.11.08-20.42.24:625][973]LogOnlineSession: Verbose: OSS: 	NumPrivateConnections: 0
+[2021.11.08-20.42.24:625][973]LogOnlineSession: Verbose: OSS: 	bIsLanMatch: false
+[2021.11.08-20.42.24:625][973]LogOnlineSession: Verbose: OSS: 	bIsDedicated: false
+[2021.11.08-20.42.24:625][973]LogOnlineSession: Verbose: OSS: 	bUsesStats: false
+[2021.11.08-20.42.24:625][973]LogOnlineSession: Verbose: OSS: 	bShouldAdvertise: true
+[2021.11.08-20.42.24:625][973]LogOnlineSession: Verbose: OSS: 	bAllowJoinInProgress: true
+[2021.11.08-20.42.24:625][973]LogOnlineSession: Verbose: OSS: 	bAllowInvites: true
+[2021.11.08-20.42.24:625][973]LogOnlineSession: Verbose: OSS: 	bUsesPresence: true
+[2021.11.08-20.42.24:625][973]LogOnlineSession: Verbose: OSS: 	bAllowJoinViaPresence: true
+[2021.11.08-20.42.24:625][973]LogOnlineSession: Verbose: OSS: 	bAllowJoinViaPresenceFriendsOnly: false
+[2021.11.08-20.42.24:625][973]LogOnlineSession: Verbose: OSS: 	BuildUniqueId: 0x00e24b58
+[2021.11.08-20.42.24:625][973]LogOnlineSession: Verbose: OSS: 	Settings:
+[2021.11.08-20.42.24:625][973]LogOnlineSession: Verbose: OSS: 		123=123 : OnlineService
+[2021.11.08-20.42.24:625][973]LogNet: Browse: /Game/Game/test_grassfield?listen
+[2021.11.08-20.42.24:625][973]LogLoad: LoadMap: /Game/Game/test_grassfield?listen
+[2021.11.08-20.42.24:625][973]LogWorld: BeginTearingDown for /Game/Game/Maps/menu
+[2021.11.08-20.42.24:627][973]LogWorld: UWorld::CleanupWorld for menu, bSessionEnded=true, bCleanupResources=true
+[2021.11.08-20.42.24:628][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.08-20.42.24:662][973]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.08-20.42.24:685][973]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2021.11.08-20.42.24:691][973]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2021.11.08-20.42.24:976][973]LogMaterial: Error: Tried to access an uncooked shader map ID in a cooked application
+[2021.11.08-20.42.24:976][973]LogMaterial: Warning: Invalid shader map ID caching shaders for 'mrror_Mat', will use default material.
+[2021.11.08-20.42.24:976][973]LogMaterial: Can't compile mrror_Mat with cooked content, will use default material instead
+[2021.11.08-20.42.24:976][973]LogMaterial: Warning: [AssetLog] /Game/Game/BRActors/mirror/mrror_Mat.mrror_Mat: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.11.08-20.42.24:983][973]LogMaterial: Error: Tried to access an uncooked shader map ID in a cooked application
+[2021.11.08-20.42.24:983][973]LogMaterial: Warning: Invalid shader map ID caching shaders for 'M_SightOpticsMaster', will use default material.
+[2021.11.08-20.42.24:983][973]LogMaterial: Can't compile M_SightOpticsMaster with cooked content, will use default material instead
+[2021.11.08-20.42.24:983][973]LogMaterial: Warning: [AssetLog] /Game/FPSTemplate/Attachments/Sights/Materials/M_SightOpticsMaster.M_SightOpticsMaster: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.11.08-20.42.25:044][973]LogAudio: Display: Audio Device (ID: 1) registered with world 'test_grassfield'.
+[2021.11.08-20.42.25:045][973]LogAIModule: Creating AISystem for world test_grassfield
+[2021.11.08-20.42.25:046][973]LogLoad: Game class is 'TestGM_C'
+[2021.11.08-20.42.25:047][973]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2021.11.08-20.42.25:047][973]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2021.11.08-20.42.25:047][973]LogNet: Display: SteamNetDriver_2147482363 bound to port 7777
+[2021.11.08-20.42.25:047][973]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.11.08-20.42.25:047][973]LogNet: GameNetDriver SteamNetDriver_2147482363 IpNetDriver listening on port 7777
+[2021.11.08-20.42.25:061][973]LogWorld: Bringing World /Game/Game/test_grassfield.test_grassfield up for play (max tick rate 0) at 2021.11.08-23.42.25
+[2021.11.08-20.42.25:064][973]LogWorld: Bringing up level for play took: 0.016305
+[2021.11.08-20.42.25:075][973]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2021.11.08-20.42.25:076][973]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2021.11.08-20.42.25:079][973]LogLoad: Took 0.453657 seconds to LoadMap(/Game/Game/test_grassfield)
+[2021.11.08-20.42.25:085][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.08-20.42.25:098][974]LogSlate: Took 0.000374 seconds to synchronously load lazily loaded font '../../../Engine/Content/EngineFonts/Faces/RobotoLight.ufont' (167K)
+[2021.11.08-20.42.25:099][974]LogSlate: Took 0.000446 seconds to synchronously load lazily loaded font '../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont' (160K)
+[2021.11.08-20.42.47:964][901]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.08-20.42.47:964][901]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.08-20.42.52:260][276]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.08-20.42.52:260][276]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.08-20.42.54:172][437]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.08-20.42.54:172][437]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.08-20.43.03:217][239]LogBlueprintUserMessages: [CSUEMain_C_2147482142] start
+[2021.11.08-20.43.03:957][299]LogBlueprintUserMessages: [CSUEMain_C_2147482142] end
+[2021.11.08-20.43.10:396][841]LogBlueprintUserMessages: [CSUEMain_C_2147482142] start
+[2021.11.08-20.43.11:135][904]LogBlueprintUserMessages: [CSUEMain_C_2147482142] end
+[2021.11.08-20.43.12:211][  0]LogBlueprintUserMessages: [CSUEMain_C_2147482142] start
+[2021.11.08-20.43.12:955][ 68]LogBlueprintUserMessages: [CSUEMain_C_2147482142] end
+[2021.11.08-20.43.13:542][115]LogBlueprintUserMessages: [CSUEMain_C_2147482142] start
+[2021.11.08-20.43.14:273][174]LogBlueprintUserMessages: [CSUEMain_C_2147482142] end
+[2021.11.08-20.43.16:098][323]LogBlueprintUserMessages: [CSUEMain_C_2147482142] start
+[2021.11.08-20.43.16:841][385]LogBlueprintUserMessages: [CSUEMain_C_2147482142] end
+[2021.11.08-20.43.17:675][456]LogBlueprintUserMessages: [CSUEMain_C_2147482142] start
+[2021.11.08-20.43.18:377][518]LogBlueprintUserMessages: [CSUEMain_C_2147482142] end
+[2021.11.08-20.43.18:961][566]LogBlueprintUserMessages: [CSUEMain_C_2147482142] start
+[2021.11.08-20.43.19:702][628]LogBlueprintUserMessages: [CSUEMain_C_2147482142] end
+[2021.11.08-20.43.21:187][756]LogBlueprintUserMessages: [CSUEMain_C_2147482142] start
+[2021.11.08-20.43.21:928][817]LogBlueprintUserMessages: [CSUEMain_C_2147482142] end
+[2021.11.08-20.43.23:198][934]LogBlueprintUserMessages: [CSUEMain_C_2147482142] start
+[2021.11.08-20.43.23:935][  1]LogBlueprintUserMessages: [CSUEMain_C_2147482142] end
+[2021.11.08-20.43.27:960][379]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.08-20.43.27:960][379]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.08-20.43.33:058][869]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.08-20.43.33:059][869]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.08-20.43.40:255][566]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.08-20.43.40:255][566]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.08-20.44.02:064][572]LogScript: Warning: UGameplayStatics::SpawnDecalAttached: NULL AttachComponent specified!
+[2021.11.08-20.44.02:064][572]LogScript: Warning: UGameplayStatics::SpawnEmitterAttached: NULL AttachComponent specified!
+[2021.11.08-20.44.02:164][580]LogParticles: Warning: Particle Notify: Anim 'KA47_Fire' tried to spawn infinitely looping particle system 'P_KA47_Shells'. Spawning suppressed.
+[2021.11.08-20.44.02:164][580]LogParticles: Warning: Particle Notify: Anim 'KA47_Fire' tried to spawn infinitely looping particle system 'P_KA47_Shells'. Spawning suppressed.
+[2021.11.08-20.44.02:204][583]LogScript: Warning: UGameplayStatics::SpawnDecalAttached: NULL AttachComponent specified!
+[2021.11.08-20.44.02:204][583]LogScript: Warning: UGameplayStatics::SpawnEmitterAttached: NULL AttachComponent specified!
+[2021.11.08-20.44.02:345][595]LogScript: Warning: UGameplayStatics::SpawnDecalAttached: NULL AttachComponent specified!
+[2021.11.08-20.44.02:345][595]LogScript: Warning: UGameplayStatics::SpawnEmitterAttached: NULL AttachComponent specified!
+[2021.11.08-20.44.02:452][604]LogParticles: Warning: Particle Notify: Anim 'KA47_Fire' tried to spawn infinitely looping particle system 'P_KA47_Shells'. Spawning suppressed.
+[2021.11.08-20.44.02:466][605]LogParticles: Warning: Particle Notify: Anim 'KA47_Fire' tried to spawn infinitely looping particle system 'P_KA47_Shells'. Spawning suppressed.
+[2021.11.08-20.44.02:493][607]LogScript: Warning: UGameplayStatics::SpawnDecalAttached: NULL AttachComponent specified!
+[2021.11.08-20.44.02:493][607]LogScript: Warning: UGameplayStatics::SpawnEmitterAttached: NULL AttachComponent specified!
+[2021.11.08-20.44.02:640][619]LogScript: Warning: UGameplayStatics::SpawnDecalAttached: NULL AttachComponent specified!
+[2021.11.08-20.44.02:640][619]LogScript: Warning: UGameplayStatics::SpawnEmitterAttached: NULL AttachComponent specified!
+[2021.11.08-20.44.02:748][628]LogParticles: Warning: Particle Notify: Anim 'KA47_Fire' tried to spawn infinitely looping particle system 'P_KA47_Shells'. Spawning suppressed.
+[2021.11.08-20.44.02:759][629]LogParticles: Warning: Particle Notify: Anim 'KA47_Fire' tried to spawn infinitely looping particle system 'P_KA47_Shells'. Spawning suppressed.
+[2021.11.08-20.44.02:782][631]LogScript: Warning: UGameplayStatics::SpawnDecalAttached: NULL AttachComponent specified!
+[2021.11.08-20.44.02:782][631]LogScript: Warning: UGameplayStatics::SpawnEmitterAttached: NULL AttachComponent specified!
+[2021.11.08-20.44.02:932][644]LogScript: Warning: UGameplayStatics::SpawnDecalAttached: NULL AttachComponent specified!
+[2021.11.08-20.44.02:932][644]LogScript: Warning: UGameplayStatics::SpawnEmitterAttached: NULL AttachComponent specified!
+[2021.11.08-20.44.03:039][653]LogParticles: Warning: Particle Notify: Anim 'KA47_Fire' tried to spawn infinitely looping particle system 'P_KA47_Shells'. Spawning suppressed.
+[2021.11.08-20.44.03:051][654]LogParticles: Warning: Particle Notify: Anim 'KA47_Fire' tried to spawn infinitely looping particle system 'P_KA47_Shells'. Spawning suppressed.
+[2021.11.08-20.44.03:176][665]LogBlueprintUserMessages: [CSPlayer_C_2147482144] 2.2
+[2021.11.08-20.44.07:023][953]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.11.08-20.44.07:023][953]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2021.11.08-20.44.07:026][953]LogSlate: Took 0.000252 seconds to synchronously load lazily loaded font '../../../Warzone/Content/ModularMenuSystem/Fonts/Ornamented_0_IMFell2.ufont' (191K)
+[2021.11.08-20.44.08:195][ 43]LogOnline: STEAM: AUTH: Revoking all tickets.
+[2021.11.08-20.44.08:196][ 43]LogNet: Browse: /Game/Game/Maps/menu
+[2021.11.08-20.44.08:196][ 43]LogLoad: LoadMap: /Game/Game/Maps/menu
+[2021.11.08-20.44.08:196][ 43]LogWorld: BeginTearingDown for /Game/Game/test_grassfield
+[2021.11.08-20.44.08:196][ 43]LogNet: World NetDriver shutdown SteamNetDriver_2147482363 [GameNetDriver]
+[2021.11.08-20.44.08:196][ 43]LogNet: DestroyNamedNetDriver SteamNetDriver_2147482363 [GameNetDriver]
+[2021.11.08-20.44.08:196][ 43]LogExit: GameNetDriver SteamNetDriver_2147482363 shut down
+[2021.11.08-20.44.08:197][ 43]LogWorld: UWorld::CleanupWorld for test_grassfield, bSessionEnded=true, bCleanupResources=true
+[2021.11.08-20.44.08:199][ 43]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.08-20.44.08:231][ 43]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.08-20.44.08:250][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2021.11.08-20.44.08:256][ 43]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2021.11.08-20.44.08:515][ 43]LogMaterial: Error: Tried to access an uncooked shader map ID in a cooked application
+[2021.11.08-20.44.08:516][ 43]LogMaterial: Warning: Invalid shader map ID caching shaders for 'M_SightOpticsMaster', will use default material.
+[2021.11.08-20.44.08:516][ 43]LogMaterial: Can't compile M_SightOpticsMaster with cooked content, will use default material instead
+[2021.11.08-20.44.08:516][ 43]LogMaterial: Warning: [AssetLog] /Game/FPSTemplate/Attachments/Sights/Materials/M_SightOpticsMaster.M_SightOpticsMaster: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.11.08-20.44.08:564][ 43]LogAudio: Display: Audio Device (ID: 1) registered with world 'menu'.
+[2021.11.08-20.44.08:566][ 43]LogAIModule: Creating AISystem for world menu
+[2021.11.08-20.44.08:567][ 43]LogLoad: Game class is 'menuGM_C'
+[2021.11.08-20.44.08:569][ 43]LogWorld: Bringing World /Game/Game/Maps/menu.menu up for play (max tick rate 0) at 2021.11.08-23.44.08
+[2021.11.08-20.44.08:570][ 43]LogWorld: Bringing up level for play took: 0.002480
+[2021.11.08-20.44.08:585][ 43]LogOnlineSession: Warning: STEAM: Can't destroy a null online session (GameSession)
+[2021.11.08-20.44.08:587][ 43]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockAlways
+[2021.11.08-20.44.08:596][ 43]LogOnlineSession: Warning: STEAM: Can't destroy a null online session (GameSession)
+[2021.11.08-20.44.08:596][ 43]LogOnlineSession: Warning: STEAM: Ignoring game search request while one is pending
+[2021.11.08-20.44.08:597][ 43]LogEngine: Onscreen warnings/messages are now DISABLED
+[2021.11.08-20.44.08:597][ 43]LogBlueprintUserMessages: [menu_C_1] disableallscreenmessages disabled
+[2021.11.08-20.44.08:598][ 43]LogLoad: Took 0.401668 seconds to LoadMap(/Game/Game/Maps/menu)
+[2021.11.08-20.44.08:601][ 43]LogSlate: Took 0.000460 seconds to synchronously load lazily loaded font '../../../Warzone/Content/ModularMenuSystem/Fonts/Ornamented_0_IMFell2.ufont' (191K)
+[2021.11.08-20.44.08:606][ 43]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.08-20.44.08:615][ 44]LogSlate: Took 0.000427 seconds to synchronously load lazily loaded font '../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont' (160K)
+[2021.11.08-20.44.08:617][ 44]LogSlate: Took 0.000674 seconds to synchronously load lazily loaded font '../../../Warzone/Content/ModularMenuSystem/Fonts/Ornamented_0_IMFell2.ufont' (191K)
+[2021.11.08-20.44.09:120][105]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2021.11.08-20.44.09:120][105]LogOnlineSession: Warning: STEAM: Ignoring game search request while one is pending
+[2021.11.08-20.44.09:823][198]LogOnlineSession: Warning: STEAM: Server response IP:91.214.119.165
+[2021.11.08-20.44.09:823][198]LogOnlineSession: Warning: STEAM: Removed incompatible build: ServerBuildUniqueId = 0x00000000, GetBuildUniqueId() = 0x00e24b58
+[2021.11.08-20.44.09:874][206]LogOnlineSession: Warning: STEAM: Server response IP:37.10.126.113
+[2021.11.08-20.44.09:874][206]LogOnlineSession: Warning: STEAM: Removed incompatible build: ServerBuildUniqueId = 0x00000000, GetBuildUniqueId() = 0x00e24b58
+[2021.11.08-20.44.10:022][229]LogOnlineSession: Warning: STEAM: Server response IP:20.151.66.71
+[2021.11.08-20.44.10:022][229]LogOnlineSession: Warning: STEAM: Removed incompatible build: ServerBuildUniqueId = 0x00000000, GetBuildUniqueId() = 0x00e24b58
+[2021.11.08-20.44.10:123][245]LogOnlineSession: Warning: STEAM: Server response IP:20.151.66.71
+[2021.11.08-20.44.10:123][245]LogOnlineSession: Warning: STEAM: Removed incompatible build: ServerBuildUniqueId = 0x00000000, GetBuildUniqueId() = 0x00e24b58
+[2021.11.08-20.44.10:123][245]LogOnlineSession: Warning: STEAM: Server response IP:209.159.148.138
+[2021.11.08-20.44.10:123][245]LogOnlineSession: Warning: STEAM: Removed incompatible build: ServerBuildUniqueId = 0x00000000, GetBuildUniqueId() = 0x00e24b58
+[2021.11.08-20.44.10:530][309]Closing by request
+[2021.11.08-20.44.10:530][309]LogWindows: FPlatformMisc::RequestExit(0)
+[2021.11.08-20.44.10:530][309]LogCore: Engine exit requested (reason: Win RequestExit)
+[2021.11.08-20.44.10:535][310]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.11.08-20.44.10:536][310]LogInit: Display: PreExit Game.
+[2021.11.08-20.44.10:540][310]LogWorld: BeginTearingDown for /Game/Game/Maps/menu
+[2021.11.08-20.44.10:540][310]LogWorld: UWorld::CleanupWorld for menu, bSessionEnded=true, bCleanupResources=true
+[2021.11.08-20.44.10:541][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.08-20.44.10:954][310]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.11.08-20.44.10:954][310]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.11.08-20.44.10:954][310]LogAudio: Display: Audio Device unregistered from world 'menu'.
+[2021.11.08-20.44.10:986][310]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.08-20.44.10:987][310]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.08-20.44.10:998][310]LogAudio: Display: Audio Device Manager Shutdown
+[2021.11.08-20.44.10:999][310]LogSlate: Request Window 'Warzone (64-bit Development PCD3D_SM5) ' being destroyed
+[2021.11.08-20.44.11:005][310]LogSlate: Window 'Warzone (64-bit Development PCD3D_SM5) ' being destroyed
+[2021.11.08-20.44.11:005][310]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.08-20.44.11:013][310]LogExit: Preparing to exit.
+[2021.11.08-20.44.11:013][310]LogMoviePlayer: Shutting down movie player
+[2021.11.08-20.44.11:015][310]LogDeviceProfile: Device profile begin destroy: [0000012484D06280] Windows
+[2021.11.08-20.44.11:015][310]LogDeviceProfile: Device profile begin destroy: [0000012484D06040] Default__DeviceProfile
+[2021.11.08-20.44.11:015][310]LogDeviceProfile: Device profile begin destroy: [0000012484D03280] WindowsNoEditor
+[2021.11.08-20.44.11:018][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.08-20.44.11:033][310]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.11.08-20.44.11:035][310]LogExit: Game engine shut down
+[2021.11.08-20.44.11:068][310]LogExit: Object subsystem successfully closed.
+[2021.11.08-20.44.11:078][310]LogModuleManager: Shutting down and abandoning module AutomationController (328)
+[2021.11.08-20.44.11:078][310]LogModuleManager: Shutting down and abandoning module AutomationWorker (326)
+[2021.11.08-20.44.11:078][310]LogModuleManager: Shutting down and abandoning module Voice (324)
+[2021.11.08-20.44.11:078][310]LogModuleManager: Shutting down and abandoning module AIModule (322)
+[2021.11.08-20.44.11:078][310]LogModuleManager: Shutting down and abandoning module GameplayDebugger (321)
+[2021.11.08-20.44.11:078][310]LogModuleManager: Shutting down and abandoning module NavigationSystem (319)
+[2021.11.08-20.44.11:078][310]LogModuleManager: Shutting down and abandoning module OculusMR (316)
+[2021.11.08-20.44.11:078][310]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (314)
+[2021.11.08-20.44.11:078][310]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (312)
+[2021.11.08-20.44.11:078][310]LogModuleManager: Shutting down and abandoning module WebMMedia (310)
+[2021.11.08-20.44.11:078][310]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (308)
+[2021.11.08-20.44.11:078][310]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (306)
+[2021.11.08-20.44.11:078][310]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (304)
+[2021.11.08-20.44.11:078][310]LogModuleManager: Shutting down and abandoning module PlanarCut (302)
+[2021.11.08-20.44.11:078][310]LogModuleManager: Shutting down and abandoning module CharacterAI (300)
+[2021.11.08-20.44.11:078][310]LogModuleManager: Shutting down and abandoning module SessionServices (298)
+[2021.11.08-20.44.11:078][310]LogModuleManager: Shutting down and abandoning module LiveCoding (296)
+[2021.11.08-20.44.11:079][310]LogModuleManager: Shutting down and abandoning module LevelSequence (294)
+[2021.11.08-20.44.11:079][310]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (292)
+[2021.11.08-20.44.11:079][310]LogModuleManager: Shutting down and abandoning module MovieScene (290)
+[2021.11.08-20.44.11:079][310]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (288)
+[2021.11.08-20.44.11:079][310]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (286)
+[2021.11.08-20.44.11:079][310]LogModuleManager: Shutting down and abandoning module AudioMixerCore (285)
+[2021.11.08-20.44.11:079][310]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (282)
+[2021.11.08-20.44.11:079][310]LogModuleManager: Shutting down and abandoning module ProfilerService (280)
+[2021.11.08-20.44.11:243][310]LogModuleManager: Shutting down and abandoning module TaskGraph (278)
+[2021.11.08-20.44.11:243][310]LogModuleManager: Shutting down and abandoning module OculusInput (276)
+[2021.11.08-20.44.11:243][310]LogModuleManager: Shutting down and abandoning module Synthesis (274)
+[2021.11.08-20.44.11:243][310]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (272)
+[2021.11.08-20.44.11:243][310]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (270)
+[2021.11.08-20.44.11:243][310]LogModuleManager: Shutting down and abandoning module EditableMesh (268)
+[2021.11.08-20.44.11:243][310]LogModuleManager: Shutting down and abandoning module CableComponent (266)
+[2021.11.08-20.44.11:243][310]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (264)
+[2021.11.08-20.44.11:243][310]LogModuleManager: Shutting down and abandoning module AudioCapture (262)
+[2021.11.08-20.44.11:243][310]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (261)
+[2021.11.08-20.44.11:243][310]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (258)
+[2021.11.08-20.44.11:243][310]LogModuleManager: Shutting down and abandoning module AppleImageUtils (256)
+[2021.11.08-20.44.11:243][310]LogModuleManager: Shutting down and abandoning module AssetTags (254)
+[2021.11.08-20.44.11:243][310]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (252)
+[2021.11.08-20.44.11:244][310]LogModuleManager: Shutting down and abandoning module TemplateSequence (250)
+[2021.11.08-20.44.11:244][310]LogModuleManager: Shutting down and abandoning module MediaCompositing (246)
+[2021.11.08-20.44.11:244][310]LogModuleManager: Shutting down and abandoning module ImgMedia (244)
+[2021.11.08-20.44.11:244][310]LogModuleManager: Shutting down and abandoning module MotoSynth (242)
+[2021.11.08-20.44.11:244][310]LogModuleManager: Shutting down and abandoning module MeshConversion (240)
+[2021.11.08-20.44.11:244][310]LogModuleManager: Shutting down and abandoning module DynamicMesh (238)
+[2021.11.08-20.44.11:244][310]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (236)
+[2021.11.08-20.44.11:244][310]LogModuleManager: Shutting down and abandoning module GeometricObjects (234)
+[2021.11.08-20.44.11:244][310]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (232)
+[2021.11.08-20.44.11:244][310]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (230)
+[2021.11.08-20.44.11:244][310]LogModuleManager: Shutting down and abandoning module GeometryCache (228)
+[2021.11.08-20.44.11:244][310]LogModuleManager: Shutting down and abandoning module ChaosNiagara (226)
+[2021.11.08-20.44.11:244][310]LogModuleManager: Shutting down and abandoning module BackChannel (224)
+[2021.11.08-20.44.11:244][310]LogModuleManager: Shutting down and abandoning module AutomationUtils (222)
+[2021.11.08-20.44.11:244][310]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (220)
+[2021.11.08-20.44.11:244][310]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (218)
+[2021.11.08-20.44.11:244][310]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (216)
+[2021.11.08-20.44.11:244][310]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (214)
+[2021.11.08-20.44.11:244][310]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (212)
+[2021.11.08-20.44.11:244][310]LogModuleManager: Shutting down and abandoning module UObjectPlugin (210)
+[2021.11.08-20.44.11:244][310]LogModuleManager: Shutting down and abandoning module Warzone (208)
+[2021.11.08-20.44.11:244][310]LogModuleManager: Shutting down and abandoning module AdvancedSteamSessions (206)
+[2021.11.08-20.44.11:244][310]LogModuleManager: Shutting down and abandoning module AdvancedSessions (204)
+[2021.11.08-20.44.11:244][310]LogModuleManager: Shutting down and abandoning module SoundFields (202)
+[2021.11.08-20.44.11:244][310]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (200)
+[2021.11.08-20.44.11:244][310]LogModuleManager: Shutting down and abandoning module SignificanceManager (198)
+[2021.11.08-20.44.11:244][310]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (194)
+[2021.11.08-20.44.11:244][310]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (192)
+[2021.11.08-20.44.11:244][310]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (190)
+[2021.11.08-20.44.11:245][310]LogModuleManager: Shutting down and abandoning module ActorSequence (188)
+[2021.11.08-20.44.11:245][310]LogModuleManager: Shutting down and abandoning module TcpMessaging (186)
+[2021.11.08-20.44.11:245][310]LogModuleManager: Shutting down and abandoning module UdpMessaging (184)
+[2021.11.08-20.44.11:245][310]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (182)
+[2021.11.08-20.44.11:245][310]LogModuleManager: Shutting down and abandoning module Niagara (180)
+[2021.11.08-20.44.11:245][310]LogModuleManager: Shutting down and abandoning module SignalProcessing (179)
+[2021.11.08-20.44.11:245][310]LogModuleManager: Shutting down and abandoning module NiagaraCore (176)
+[2021.11.08-20.44.11:245][310]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (174)
+[2021.11.08-20.44.11:245][310]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (172)
+[2021.11.08-20.44.11:245][310]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (170)
+[2021.11.08-20.44.11:245][310]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (168)
+[2021.11.08-20.44.11:245][310]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (166)
+[2021.11.08-20.44.11:245][310]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (164)
+[2021.11.08-20.44.11:245][310]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (162)
+[2021.11.08-20.44.11:245][310]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (160)
+[2021.11.08-20.44.11:245][310]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (158)
+[2021.11.08-20.44.11:245][310]LogModuleManager: Shutting down and abandoning module MagicLeapController (156)
+[2021.11.08-20.44.11:245][310]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2021.11.08-20.44.11:245][310]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (154)
+[2021.11.08-20.44.11:245][310]LogModuleManager: Shutting down and abandoning module MagicLeapAR (152)
+[2021.11.08-20.44.11:245][310]LogModuleManager: Shutting down and abandoning module AugmentedReality (151)
+[2021.11.08-20.44.11:245][310]LogModuleManager: Shutting down and abandoning module AnimationSharing (148)
+[2021.11.08-20.44.11:246][310]LogModuleManager: Shutting down and abandoning module FacialAnimation (146)
+[2021.11.08-20.44.11:246][310]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (144)
+[2021.11.08-20.44.11:246][310]LogModuleManager: Shutting down and abandoning module Paper2D (142)
+[2021.11.08-20.44.11:246][310]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (140)
+[2021.11.08-20.44.11:246][310]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (138)
+[2021.11.08-20.44.11:246][310]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (136)
+[2021.11.08-20.44.11:246][310]LogModuleManager: Shutting down and abandoning module PacketHandler (134)
+[2021.11.08-20.44.11:246][310]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (132)
+[2021.11.08-20.44.11:246][310]LogModuleManager: Shutting down and abandoning module MediaAssets (130)
+[2021.11.08-20.44.11:246][310]LogModuleManager: Shutting down and abandoning module Overlay (128)
+[2021.11.08-20.44.11:246][310]LogModuleManager: Shutting down and abandoning module FunctionalTesting (126)
+[2021.11.08-20.44.11:246][310]LogModuleManager: Shutting down and abandoning module MessageLog (124)
+[2021.11.08-20.44.11:246][310]LogModuleManager: Shutting down and abandoning module UMG (122)
+[2021.11.08-20.44.11:246][310]LogModuleManager: Shutting down and abandoning module SlateReflector (120)
+[2021.11.08-20.44.11:247][310]LogModuleManager: Shutting down and abandoning module Slate (118)
+[2021.11.08-20.44.11:247][310]LogModuleManager: Shutting down and abandoning module SlateCore (116)
+[2021.11.08-20.44.11:250][310]LogModuleManager: Shutting down and abandoning module MRMesh (114)
+[2021.11.08-20.44.11:250][310]LogModuleManager: Shutting down and abandoning module Messaging (112)
+[2021.11.08-20.44.11:250][310]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (110)
+[2021.11.08-20.44.11:250][310]LogModuleManager: Shutting down and abandoning module XAudio2 (108)
+[2021.11.08-20.44.11:250][310]LogModuleManager: Shutting down and abandoning module Networking (106)
+[2021.11.08-20.44.11:250][310]LogModuleManager: Shutting down and abandoning module Core (104)
+[2021.11.08-20.44.11:250][310]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (102)
+[2021.11.08-20.44.11:250][310]LogModuleManager: Shutting down and abandoning module ImageWrapper (98)
+[2021.11.08-20.44.11:250][310]LogModuleManager: Shutting down and abandoning module InputCore (96)
+[2021.11.08-20.44.11:250][310]LogModuleManager: Shutting down and abandoning module Settings (94)
+[2021.11.08-20.44.11:250][310]LogModuleManager: Shutting down and abandoning module PhysXCooking (92)
+[2021.11.08-20.44.11:250][310]LogModuleManager: Shutting down and abandoning module Chaos (90)
+[2021.11.08-20.44.11:250][310]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (88)
+[2021.11.08-20.44.11:250][310]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (87)
+[2021.11.08-20.44.11:250][310]LogModuleManager: Shutting down and abandoning module AVEncoder (86)
+[2021.11.08-20.44.11:250][310]LogModuleManager: Shutting down and abandoning module OculusHMD (82)
+[2021.11.08-20.44.11:251][310]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (80)
+[2021.11.08-20.44.11:251][310]LogModuleManager: Shutting down and abandoning module ChunkDownloader (78)
+[2021.11.08-20.44.11:251][310]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (76)
+[2021.11.08-20.44.11:251][310]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2021.11.08-20.44.11:251][310]LogOnline: STEAM: AUTH: Revoking all tickets.
+[2021.11.08-20.44.11:251][310]LogSteamShared: Unloading the Steam API...
+[2021.11.08-20.44.11:478][310]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2021.11.08-20.44.11:478][310]LogModuleManager: Shutting down and abandoning module SteamShared (72)
+[2021.11.08-20.44.11:478][310]LogSteamShared: Freeing the Steam Loaded Modules...
+[2021.11.08-20.44.11:478][310]LogModuleManager: Shutting down and abandoning module HTTP (69)
+[2021.11.08-20.44.11:478][310]LogHttp: Display: cleaning up 0 outstanding Http requests.
+[2021.11.08-20.44.11:489][310]LogModuleManager: Shutting down and abandoning module SSL (68)
+[2021.11.08-20.44.11:489][310]LogModuleManager: Shutting down and abandoning module WmfMedia (62)
+[2021.11.08-20.44.11:490][310]LogModuleManager: Shutting down and abandoning module Media (61)
+[2021.11.08-20.44.11:490][310]LogModuleManager: Shutting down and abandoning module MediaInfo (60)
+[2021.11.08-20.44.11:490][310]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (56)
+[2021.11.08-20.44.11:490][310]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (54)
+[2021.11.08-20.44.11:490][310]LogModuleManager: Shutting down and abandoning module ChaosCloth (52)
+[2021.11.08-20.44.11:490][310]LogModuleManager: Shutting down and abandoning module MLSDK (50)
+[2021.11.08-20.44.11:490][310]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (48)
+[2021.11.08-20.44.11:490][310]LogModuleManager: Shutting down and abandoning module NiagaraShader (46)
+[2021.11.08-20.44.11:490][310]LogModuleManager: Shutting down and abandoning module MagicLeap (44)
+[2021.11.08-20.44.11:490][310]LogModuleManager: Shutting down and abandoning module DatasmithContent (42)
+[2021.11.08-20.44.11:490][310]LogModuleManager: Shutting down and abandoning module VariantManagerContent (40)
+[2021.11.08-20.44.11:490][310]LogModuleManager: Shutting down and abandoning module AISupportModule (38)
+[2021.11.08-20.44.11:490][310]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (36)
+[2021.11.08-20.44.11:490][310]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (34)
+[2021.11.08-20.44.11:490][310]LogModuleManager: Shutting down and abandoning module PlatformCrypto (32)
+[2021.11.08-20.44.11:490][310]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2021.11.08-20.44.11:490][310]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2021.11.08-20.44.11:490][310]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2021.11.08-20.44.11:491][310]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2021.11.08-20.44.11:491][310]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2021.11.08-20.44.11:491][310]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.11.08-20.44.11:491][310]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.11.08-20.44.11:491][310]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.11.08-20.44.11:491][310]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.11.08-20.44.11:491][310]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.11.08-20.44.11:491][310]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.11.08-20.44.11:491][310]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.11.08-20.44.11:491][310]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.11.08-20.44.11:491][310]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.11.08-20.44.11:491][310]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.11.08-20.44.11:491][310]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2021.11.08-20.44.11:492][310]LogD3D11RHI: Shutdown
+[2021.11.08-20.44.11:492][310]LogD3D11RHI: CleanupD3DDevice
+[2021.11.08-20.44.11:499][310]LogExit: Exiting.
+[2021.11.08-20.44.11:509][310]Log file closed, 11/08/21 23:44:11
