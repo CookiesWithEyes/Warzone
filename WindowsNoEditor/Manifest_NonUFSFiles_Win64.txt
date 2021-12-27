@@ -17,4 +17,4 @@ Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	2021-08-24T07:11
 Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2021-08-24T07:11:12.660Z
 Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll	2021-08-24T07:10:40.760Z
 Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2021-08-24T07:11:13.442Z
-WarzoneZipup.exe	2021-12-26T10:45:42.232Z
+WarzoneZipup.exe	2021-12-27T16:59:39.546Z
